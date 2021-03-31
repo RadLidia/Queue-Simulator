@@ -1,0 +1,2969 @@
+Waiting clients: (70,10,5); (246,10,8); (327,10,6); (480,10,8); (509,10,8); (655,10,5); (761,10,9); (776,10,6); (860,10,7); (945,10,3); (978,10,3); (979,10,9); (109,11,8); (180,11,3); (329,11,7); (564,11,7); (754,11,4); (787,11,5); (16,12,3); (35,12,4); (38,12,4); (196,12,7); (201,12,9); (250,12,7); (285,12,9); (288,12,7); (325,12,6); (497,12,6); (505,12,3); (527,12,3); (553,12,6); (572,12,8); (774,12,9); (917,12,9); (25,13,3); (50,13,3); (235,13,3); (244,13,4); (312,13,9); (406,13,7); (431,13,7); (535,13,3); (868,13,5); (906,13,5); (984,13,6); (156,14,7); (262,14,4); (287,14,6); (359,14,5); (421,14,5); (481,14,5); (664,14,7); (859,14,6); (886,14,7); (898,14,9); (958,14,6); (969,14,3); (217,15,8); (458,15,6); (471,15,9); (709,15,5); (752,15,3); (927,15,9); (935,15,8); (947,15,9); (79,16,9); (284,16,5); (335,16,5); (346,16,4); (348,16,9); (351,16,7); (507,16,7); (539,16,4); (673,16,8); (699,16,5); (838,16,5); (869,16,5); (937,16,7); (982,16,7); (302,17,8); (304,17,7); (403,17,3); (408,17,7); (590,17,7); (696,17,5); (725,17,4); (57,18,4); (444,18,5); (717,18,5); (757,18,8); (814,18,5); (822,18,7); (864,18,7); (42,19,6); (71,19,5); (230,19,5); (300,19,9); (501,19,3); (682,19,5); (911,19,3); (925,19,9); (928,19,4); (985,19,4); (2,20,6); (7,20,5); (203,20,4); (256,20,5); (342,20,7); (416,20,5); (430,20,7); (463,20,5); (574,20,9); (695,20,5); (735,20,5); (803,20,3); (40,21,3); (117,21,4); (363,21,4); (809,21,6); (959,21,4); (980,21,6); (123,22,8); (137,22,5); (353,22,4); (389,22,9); (424,22,8); (541,22,4); (580,22,6); (873,22,3); (914,22,9); (949,22,7); (86,23,9); (104,23,7); (126,23,4); (148,23,9); (166,23,6); (173,23,8); (222,23,7); (496,23,3); (674,23,7); (724,23,7); (827,23,4); (887,23,6); (69,24,8); (227,24,9); (245,24,7); (249,24,4); (361,24,3); (369,24,9); (427,24,3); (447,24,9); (493,24,9); (808,24,5); (825,24,9); (891,24,5); (918,24,9); (67,25,8); (341,25,9); (365,25,7); (370,25,7); (529,25,5); (583,25,9); (710,25,3); (713,25,8); (741,25,5); (968,25,8); (981,25,9); (5,26,3); (44,26,7); (114,26,9); (456,26,4); (467,26,7); (588,26,3); (671,26,6); (829,26,9); (835,26,5); (870,26,7); (973,26,8); (161,27,8); (200,27,3); (240,27,7); (277,27,6); (613,27,4); (894,27,4); (8,28,7); (139,28,9); (195,28,4); (263,28,8); (308,28,4); (402,28,5); (440,28,6); (502,28,3); (641,28,7); (764,28,4); (899,28,4); (134,29,7); (138,29,9); (223,29,7); (242,29,5); (282,29,3); (453,29,3); (520,29,9); (530,29,7); (550,29,9); (686,29,8); (811,29,3); (999,29,8); (13,30,6); (81,30,3); (208,30,4); (318,30,8); (490,30,6); (737,30,7); (750,30,8); (794,30,9); (862,30,4); (924,30,9); (32,31,6); (47,31,5); (52,31,3); (261,31,5); (321,31,3); (322,31,6); (482,31,3); (621,31,9); (639,31,7); (640,31,6); (748,31,8); (778,31,6); (789,31,8); (807,31,5); (810,31,7); (844,31,9); (913,31,6); (407,32,9); (454,32,9); (586,32,5); (663,32,6); (722,32,8); (818,32,4); (828,32,5); (843,32,9); (136,33,5); (254,33,9); (310,33,5); (414,33,6); (459,33,9); (472,33,8); (511,33,3); (524,33,5); (545,33,9); (552,33,7); (646,33,9); (768,33,5); (813,33,3); (953,33,6); (964,33,9); (120,34,8); (349,34,5); (355,34,9); (357,34,7); (410,34,9); (448,34,6); (504,34,8); (518,34,4); (579,34,6); (654,34,5); (680,34,7); (703,34,9); (840,34,9); (847,34,4); (963,34,6); (967,34,3); (48,35,7); (76,35,4); (97,35,9); (338,35,6); (523,35,4); (567,35,7); (576,35,3); (731,35,4); (775,35,3); (831,35,7); (865,35,9); (39,36,8); (129,36,9); (191,36,5); (268,36,6); (270,36,6); (486,36,8); (499,36,8); (571,36,9); (592,36,9); (604,36,4); (799,36,7); (871,36,5); (83,37,5); (168,37,6); (234,37,6); (381,37,7); (385,37,7); (400,37,3); (683,37,9); (708,37,3); (793,37,9); (850,37,9); (154,38,3); (255,38,9); (332,38,6); (397,38,7); (452,38,9); (503,38,4); (528,38,8); (566,38,8); (628,38,3); (693,38,7); (718,38,7); (796,38,4); (966,38,7); (983,38,3); (87,39,8); (98,39,7); (253,39,4); (296,39,5); (392,39,6); (420,39,5); (477,39,4); (632,39,6); (677,39,9); (730,39,4); (738,39,8); (815,39,8); (977,39,9); (9,40,9); (53,40,6); (103,40,4); (238,40,9); (469,40,6); (619,40,3); (648,40,8); (706,40,8); (755,40,3); (883,40,9); (18,41,3); (58,41,3); (110,41,4); (143,41,4); (175,41,4); (221,41,9); (233,41,5); (278,41,5); (373,41,3); (756,41,3); (797,41,3); (824,41,6); (957,41,7); (66,42,4); (128,42,4); (135,42,9); (548,42,5); (598,42,4); (610,42,4); (624,42,4); (746,42,5); (767,42,3); (782,42,4); (926,42,8); (952,42,7); (164,43,7); (266,43,5); (292,43,9); (500,43,7); (549,43,3); (612,43,9); (694,43,9); (727,43,8); (837,43,9); (950,43,8); (972,43,7); (125,44,7); (150,44,3); (264,44,4); (313,44,4); (582,44,7); (637,44,6); (820,44,5); (839,44,5); (942,44,8); (151,45,3); (225,45,9); (226,45,9); (280,45,5); (345,45,6); (347,45,5); (379,45,6); (521,45,8); (702,45,6); (853,45,7); (54,46,9); (111,46,6); (131,46,8); (204,46,6); (311,46,8); (387,46,7); (488,46,8); (705,46,6); (715,46,5); (876,46,9); (33,47,9); (189,47,3); (636,47,5); (650,47,5); (656,47,9); (22,48,8); (36,48,9); (61,48,3); (91,48,4); (92,48,7); (130,48,3); (236,48,8); (333,48,3); (399,48,8); (478,48,6); (534,48,8); (551,48,5); (603,48,7); (642,48,3); (657,48,4); (845,48,3); (78,49,5); (273,49,3); (393,49,3); (466,49,8); (522,49,4); (584,49,3); (595,49,9); (600,49,5); (633,49,6); (667,49,4); (691,49,3); (744,49,3); (781,49,6); (790,49,7); (861,49,7); (905,49,8); (10,50,5); (100,50,4); (118,50,3); (186,50,4); (276,50,4); (344,50,5); (358,50,8); (383,50,4); (415,50,5); (479,50,9); (573,50,9); (653,50,5); (88,51,5); (95,51,7); (145,51,5); (147,51,6); (157,51,9); (398,51,8); (426,51,9); (441,51,3); (495,51,7); (647,51,3); (805,51,5); (832,51,6); (836,51,8); (842,51,3); (872,51,8); (37,52,5); (49,52,5); (65,52,7); (105,52,7); (237,52,5); (258,52,7); (259,52,6); (339,52,8); (439,52,4); (446,52,7); (540,52,7); (678,52,4); (707,52,8); (733,52,9); (896,52,3); (956,52,9); (988,52,6); (997,52,7); (26,53,7); (62,53,7); (106,53,3); (193,53,5); (388,53,7); (401,53,9); (546,53,7); (665,53,6); (751,53,3); (773,53,9); (846,53,3); (1000,53,5); (6,54,3); (112,54,9); (473,54,4); (483,54,3); (531,54,5); (578,54,5); (599,54,6); (611,54,9); (716,54,7); (720,54,4); (14,55,4); (75,55,5); (116,55,4); (170,55,5); (568,55,7); (626,55,3); (851,55,5); (877,55,8); (908,55,7); (989,55,3); (140,56,3); (319,56,4); (457,56,4); (498,56,6); (510,56,7); (672,56,8); (804,56,3); (880,56,7); (993,56,7); (1,57,7); (17,57,7); (27,57,7); (108,57,4); (153,57,6); (198,57,5); (267,57,6); (555,57,3); (728,57,5); (734,57,4); (742,57,7); (802,57,8); (848,57,8); (903,57,8); (3,58,8); (183,58,8); (202,58,5); (428,58,3); (544,58,5); (625,58,6); (719,58,8); (762,58,7); (938,58,5); (12,59,4); (20,59,4); (34,59,7); (73,59,8); (113,59,7); (121,59,6); (160,59,3); (220,59,7); (293,59,9); (324,59,8); (425,59,6); (515,59,3); (629,59,3); (723,59,5); (965,59,5); (68,60,4); (279,60,5); (354,60,6); (435,60,7); (514,60,6); (594,60,3); (819,60,3); (944,60,5); (992,60,9); (205,61,3); (218,61,4); (303,61,8); (492,61,4); (532,61,5); (547,61,5); (618,61,7); (658,61,5); (852,61,8); (900,61,5); (922,61,4); (976,61,7); (378,62,8); (512,62,9); (675,62,5); (712,62,6); (726,62,4); (786,62,4); (875,62,8); (882,62,8); (987,62,8); (991,62,6); (15,63,4); (41,63,8); (85,63,9); (228,63,5); (422,63,9); (489,63,9); (736,63,9); (753,63,9); (912,63,4); (165,64,7); (376,64,5); (417,64,9); (451,64,7); (476,64,8); (587,64,3); (823,64,9); (996,64,8); (46,65,5); (99,65,7); (141,65,5); (162,65,6); (295,65,3); (366,65,3); (558,65,8); (795,65,9); (888,65,9); (893,65,5); (970,65,7); (45,66,7); (171,66,8); (597,66,7); (638,66,8); (697,66,5); (863,66,3); (921,66,8); (28,67,8); (315,67,3); (668,67,3); (676,67,8); (909,67,4); (916,67,7); (932,67,4); (946,67,5); (955,67,7); (11,68,7); (60,68,4); (74,68,3); (211,68,7); (271,68,7); (360,68,7); (561,68,6); (616,68,8); (821,68,5); (841,68,8); (961,68,4); (89,69,6); (159,69,3); (290,69,5); (305,69,9); (364,69,5); (390,69,8); (443,69,8); (508,69,5); (536,69,5); (563,69,4); (607,69,7); (620,69,9); (651,69,3); (749,69,7); (878,69,8); (907,69,4); (96,70,6); (190,70,9); (352,70,9); (468,70,4); (575,70,4); (614,70,3); (681,70,3); (739,70,6); (858,70,5); (56,71,7); (192,71,4); (334,71,6); (336,71,6); (386,71,6); (437,71,8); (589,71,6); (780,71,5); (800,71,3); (897,71,8); (375,72,3); (419,72,4); (491,72,5); (569,72,8); (630,72,4); (760,72,3); (812,72,4); (879,72,7); (923,72,3); (962,72,9); (43,73,9); (55,73,3); (72,73,5); (181,73,5); (260,73,6); (307,73,4); (350,73,8); (411,73,5); (777,73,6); (784,73,5); (884,73,7); (940,73,3); (84,74,4); (177,74,4); (340,74,6); (434,74,4); (577,74,4); (816,74,8); (59,75,5); (275,75,7); (330,75,8); (377,75,8); (513,75,5); (516,75,8); (615,75,7); (622,75,6); (23,76,4); (127,76,9); (391,76,7); (429,76,6); (450,76,4); (554,76,6); (692,76,4); (743,76,7); (766,76,4); (833,76,3); (920,76,5); (951,76,6); (971,76,6); (19,77,7); (63,77,8); (158,77,9); (207,77,3); (248,77,4); (309,77,3); (542,77,6); (660,77,7); (732,77,8); (874,77,9); (885,77,8); (930,77,5); (82,78,6); (149,78,9); (213,78,3); (241,78,9); (367,78,8); (371,78,5); (436,78,7); (465,78,6); (297,79,5); (382,79,3); (409,79,5); (635,79,4); (689,79,8); (910,79,9); (994,79,3); (133,80,8); (209,80,3); (306,80,7); (565,80,8); (779,80,6); (4,81,6); (21,81,9); (152,81,7); (206,81,7); (216,81,3); (269,81,3); (404,81,6); (462,81,5); (494,81,9); (765,81,4); (904,81,4); (24,82,5); (272,82,4); (298,82,3); (362,82,4); (460,82,9); (506,82,8); (538,82,3); (688,82,8); (772,82,7); (931,82,4); (102,83,9); (155,83,8); (199,83,5); (257,83,7); (316,83,3); (331,83,7); (525,83,3); (557,83,5); (652,83,9); (669,83,6); (854,83,7); (915,83,3); (101,84,8); (142,84,8); (286,84,3); (474,84,9); (484,84,7); (556,84,3); (609,84,6); (645,84,9); (830,84,4); (881,84,4); (939,84,3); (146,85,4); (210,85,7); (252,85,3); (328,85,9); (368,85,6); (585,85,3); (596,85,3); (627,85,8); (698,85,3); (763,85,8); (889,85,7); (890,85,7); (954,85,3); (124,86,3); (169,86,8); (299,86,6); (301,86,9); (314,86,4); (337,86,3); (560,86,5); (605,86,7); (617,86,4); (185,87,5); (343,87,6); (591,87,6); (701,87,9); (740,87,9); (747,87,6); (856,87,5); (975,87,6); (986,87,5); (219,88,9); (283,88,5); (433,88,3); (526,88,4); (714,88,3); (721,88,9); (759,88,4); (791,88,8); (792,88,3); (936,88,5); (215,89,4); (224,89,5); (289,89,5); (356,89,8); (394,89,6); (396,89,9); (475,89,9); (593,89,6); (631,89,7); (649,89,5); (679,89,6); (934,89,6); (132,90,6); (184,90,6); (243,90,6); (320,90,6); (323,90,5); (464,90,3); (487,90,6); (606,90,7); (608,90,9); (644,90,8); (661,90,5); (769,90,7); (801,90,5); (892,90,5); (941,90,9); (64,91,7); (251,91,7); (326,91,9); (413,91,8); (432,91,7); (570,91,9); (623,91,8); (690,91,4); (806,91,8); (817,91,8); (866,91,7); (867,91,7); (995,91,8); (29,92,3); (80,92,9); (115,92,9); (119,92,6); (187,92,5); (229,92,6); (231,92,8); (232,92,9); (274,92,9); (291,92,6); (294,92,6); (380,92,7); (384,92,8); (423,92,9); (662,92,4); (684,92,4); (901,92,4); (929,92,5); (94,93,6); (167,93,9); (179,93,7); (281,93,8); (449,93,6); (517,93,3); (533,93,5); (602,93,7); (666,93,4); (788,93,9); (948,93,4); (30,94,4); (51,94,9); (163,94,5); (212,94,6); (247,94,4); (485,94,8); (543,94,5); (771,94,6); (990,94,3); (31,95,7); (90,95,7); (93,95,4); (122,95,5); (144,95,4); (659,95,9); (770,95,3); (826,95,8); (998,95,6); (107,96,8); (197,96,6); (317,96,5); (374,96,6); (405,96,4); (562,96,7); (783,96,6); (895,96,7); (933,96,9); (178,97,3); (188,97,4); (601,97,7); (634,97,5); (643,97,9); (670,97,3); (849,97,4); (902,97,6); (919,97,5); (77,98,6); (194,98,4); (214,98,9); (265,98,9); (412,98,3); (438,98,3); (470,98,4); (519,98,8); (537,98,5); (559,98,6); (581,98,4); (711,98,7); (745,98,9); (974,98,9); (172,99,7); (174,99,4); (239,99,5); (395,99,7); (418,99,4); (442,99,7); (445,99,9); (461,99,7); (687,99,5); (700,99,4); (729,99,6); (785,99,8); (943,99,9); (960,99,7); (176,100,8); (182,100,5); (372,100,3); (455,100,3); (685,100,9); (704,100,4); (758,100,6); (798,100,5); (834,100,7); (855,100,3); (857,100,7); 
+Time 1
+Time 2
+Time 3
+Time 4
+Time 5
+Time 6
+Time 7
+Time 8
+Time 9
+Time 10
+INSERT: Client 70 Was Added to the queue 1.
+
+INSERT: Client 246 Was Added to the queue 1.
+
+INSERT: Client 327 Was Added to the queue 2.
+
+INSERT: Client 480 Was Added to the queue 3.
+
+INSERT: Client 509 Was Added to the queue 3.
+
+INSERT: Client 655 Was Added to the queue 4.
+
+INSERT: Client 761 Was Added to the queue 5.
+
+INSERT: Client 776 Was Added to the queue 6.
+
+INSERT: Client 860 Was Added to the queue 6.
+
+INSERT: Client 945 Was Added to the queue 6.
+
+INSERT: Client 978 Was Added to the queue 7.
+
+INSERT: Client 979 Was Added to the queue 7.
+
+Time 11
+INSERT: Client 109 Was Added to the queue 8.
+
+INSERT: Client 180 Was Added to the queue 8.
+
+INSERT: Client 329 Was Added to the queue 9.
+
+INSERT: Client 564 Was Added to the queue 9.
+
+INSERT: Client 754 Was Added to the queue 10.
+
+INSERT: Client 787 Was Added to the queue 10.
+
+Time 12
+INSERT: Client 16 Was Added to the queue 11.
+
+INSERT: Client 35 Was Added to the queue 11.
+
+INSERT: Client 38 Was Added to the queue 12.
+
+INSERT: Client 196 Was Added to the queue 12.
+
+INSERT: Client 201 Was Added to the queue 13.
+
+INSERT: Client 250 Was Added to the queue 13.
+
+INSERT: Client 285 Was Added to the queue 14.
+
+INSERT: Client 288 Was Added to the queue 14.
+
+INSERT: Client 325 Was Added to the queue 15.
+
+INSERT: Client 497 Was Added to the queue 15.
+
+INSERT: Client 505 Was Added to the queue 16.
+
+INSERT: Client 527 Was Added to the queue 16.
+
+INSERT: Client 553 Was Added to the queue 17.
+
+INSERT: Client 572 Was Added to the queue 18.
+
+INSERT: Client 774 Was Added to the queue 19.
+
+INSERT: Client 917 Was Added to the queue 19.
+
+Time 13
+INSERT: Client 25 Was Added to the queue 20.
+
+INSERT: Client 50 Was Added to the queue 1.
+
+INSERT: Client 235 Was Added to the queue 1.
+
+INSERT: Client 244 Was Added to the queue 1.
+
+INSERT: Client 312 Was Added to the queue 1.
+
+INSERT: Client 406 Was Added to the queue 1.
+
+INSERT: Client 431 Was Added to the queue 1.
+
+INSERT: Client 535 Was Added to the queue 1.
+
+INSERT: Client 868 Was Added to the queue 1.
+
+INSERT: Client 906 Was Added to the queue 1.
+
+INSERT: Client 984 Was Added to the queue 1.
+
+REMOVE: Client 978 was removed from the queue 1.
+
+Time 14
+INSERT: Client 156 Was Added to the queue 1.
+
+INSERT: Client 262 Was Added to the queue 1.
+
+INSERT: Client 287 Was Added to the queue 1.
+
+INSERT: Client 359 Was Added to the queue 1.
+
+INSERT: Client 421 Was Added to the queue 1.
+
+INSERT: Client 481 Was Added to the queue 1.
+
+INSERT: Client 664 Was Added to the queue 1.
+
+INSERT: Client 859 Was Added to the queue 1.
+
+INSERT: Client 886 Was Added to the queue 1.
+
+INSERT: Client 898 Was Added to the queue 1.
+
+INSERT: Client 958 Was Added to the queue 1.
+
+INSERT: Client 969 Was Added to the queue 1.
+
+REMOVE: Client 70 was removed from the queue 1.
+
+REMOVE: Client 16 was removed from the queue 1.
+
+REMOVE: Client 754 was removed from the queue 1.
+
+REMOVE: Client 655 was removed from the queue 1.
+
+Time 15
+REMOVE: Client 505 was removed from the queue 1.
+
+INSERT: Client 217 Was Added to the queue 2.
+
+INSERT: Client 458 Was Added to the queue 2.
+
+INSERT: Client 471 Was Added to the queue 2.
+
+INSERT: Client 709 Was Added to the queue 2.
+
+INSERT: Client 752 Was Added to the queue 2.
+
+INSERT: Client 927 Was AddedREMOVE: Client 668 was removed from the queue 1.
+
+the queue 2.
+
+INSERT: Client 947 Was Added to the queue 2.
+
+REMOVE: Client 327 was removed from the queue 1.
+
+REMOVE: Client 776 was removed from the queue 1.
+
+REMOVE: Client 25 was removed from the queue 1.
+
+REMOVE: Client 38 was removed from the queue 1.
+
+Time 16
+INSERT: Client 79 Was Added to the queue 3.
+
+INSERT: Client 284 Was Added to the queue 3.
+
+INSERT: Client 335 Was Added to the queue 3.
+
+INSERT: Client 346 Was Added to the queue 3.
+
+INSERT: Client 348 Was Added to the queue 3.
+
+INSERT: Client 351 Was Added to the queue 3.
+
+INSERT: Client 507 Was Added to the queue 3.
+
+INSERT: Client 539 Was Added to the queue 3.
+
+INSERT: Client 673 Was Added to the queue 3.
+
+INSERT: Client 699 Was Added to the queue 3.
+
+INSERT: Client 838 Was Added to the queue 3.
+
+INSERT: Client 869 Was Added to the queue 3.
+
+INSERT: Client 937 Was Added to the queue 3.
+
+INSERT: Client 982 Was Added to the queue 3.
+
+Time 17
+INSERT: Client 302 Was Added to the queue 3.
+
+INSERT: Client 304 Was Added to the queue 3.
+
+INSERT: Client 403 Was Added to the queue 3.
+
+INSERT: Client 408 Was Added to the queue 3.
+
+INSERT: Client 590 Was Added to the queue 3.
+
+INSERT: Client 696 Was Added to the queue 3.
+
+INSERT: Client 725 Was Added to the queue 3.
+
+REMOVE: Client 480 was removed from the queue 1.
+
+REMOVE: Client 325 was removed from the queue 1.
+
+REMOVE: Client 329 was removed from the queue 1.
+
+REMOVE: Client 553 was removed from the queue 1.
+
+Time 18
+REMOVE: Client 527 was removed from the queue 1.
+
+INSERT: Client 57 Was Added to the queue 4.
+
+INSERT: Client 444 Was Added to the queue 5.
+
+INSERT: Client 717 Was Added to the queue 5.
+
+INSERT: Client 757 Was Added to the queue 5.
+
+INSERT: Client 814 Was Added to the queue 5.
+
+INSERT: Client 822 Was Added to the queue 5.
+
+INSERT: Client 864 Was Added to the queue 5.
+
+REMOVE: Client 35 was removed from the queue 1.
+REMOVE: Client 743 was removed from the queue 1.
+
+REMOVE: Client 761 was removed from the queue 1.
+
+REMOVE: Client 766 was removed from the queue 1.
+
+REMOVE: Client 847 was removed from the queue 1.
+
+REMOVE: Client 883 was removed from the queue 1.
+
+REMOVE: Client 948 was removed from the queue 1.
+
+REMOVE: Client 960 was removed from the queue 1.
+
+REMOVE: Client 36 was removed from the queue 1.
+
+REMOVE: Client 98 was removed from the queue 1.
+
+REMOVE: Client 168 was removed from the queue 1.
+
+REMOVE: Client 195 was removed from the queue 1.
+
+REMOVE: Client 310 was removed from the queue 1.
+
+REMOVE: Client 334 was removed from the queue 1.
+
+REMOVE: Client 540 was removed from the queue 1.
+
+REMOVE: Client 801 was removed from the queue 1.
+
+REMOVE: Client 868 was removed from the queue 1.
+
+REMOVE: Client 901 was removed from the queue 1.
+
+REMOVE: Client 137 was removed from the queue 1.
+
+REMOVE: Client 217 was removed from the queue 1.
+
+REMOVE: Client 234 was removed from the queue 1.
+
+REMOVE: Client 587 was removed from the queue 1.
+
+REMOVE: Client 771 was removed from the queue 1.
+
+REMOVE: Client 888 was removed from the queue 1.
+
+REMOVE: Client 19 was removed from the queue 1.
+
+REMOVE: Client 41 was removed from the queue 1.
+
+
+
+REMOVE: Client 201 was removed from the queue 1.
+
+REMOVE: Client 285 was removed from the queue 1.
+
+Time 21
+REMOVE: Client 774 was removed from the queue 1.
+
+INSERT: Client 40 Was Added to the queue 17.
+
+INSERT: Client 117 Was Added to the queue 18.
+
+INSERT: Client 363 Was Added to the queue 20.
+
+INSERT: Client 809 Was Added to the queue 20.
+
+INSERT: Client 959 Was Added to the queue 1.
+
+INSERT: Client 980 Was Added to the queue 1.
+
+Time 22
+INSERT: Client 123 Was Added to the queue 1.
+
+INSERT: Client 137 Was Added to the queue 1.
+
+INSERT: Client 353 Was Added to the queue 1.
+
+INSERT: Client 389 Was Added to the queue 1.
+
+REMOVE: Client 979 was removed from the queue 1.
+
+REMOVE: Client 180 was removed from the queue 1.
+
+REMOVE: Client 57 was removed from the queue 1.
+
+INSERT: Client 424 Was Added to the queue 1.
+
+INSERT: Client 541 WasREMOVE: Client 151 was removed from the queue 1.
+
+REMOVE: Client 710 was removed from the queue 1.
+
+REMOVE: Client 255 was removed from the queue 1.
+
+REMOVE: Client 712 was removed from the queue 1.
+
+REMOVE: Client 312 was removed from the queue 1.
+
+REMOVE: Client 756 was removed from the queue 1.
+
+REMOVE: Client 435 was removed from the queue 1.
+
+REMOVE: Client 833 was removed from the queue 1.
+
+REMOVE: Client 451 was removed from the queue 1.
+
+REMOVE: Client 960 was removed from the queue 1.
+
+REMOVE: Client 512 was removed from the queue 1.
+
+REMOVE: Client 115 was removed from the queue 1.
+
+REMOVE: Client 550 was removed from the queue 1.
+
+REMOVE: Client 176 was removed from the queue 1.
+
+REMOVE: Client 311 was removed from the queue 1.
+
+REMOVE: Client 639 was removed from the queue 1.
+
+REMOVE: Client 559 was removed from the queue 1.
+
+REMOVE: Client 650 was removed from the queue 1.
+
+REMOVE: Client 625 was removed from the queue 1.
+
+REMOVE: Client 654 was removed from the queue 1.
+
+REMOVE: Client 768 was removed from the queue 1.
+
+REMOVE: Client 711 was removed from the queue 1.
+
+REMOVE: Client 722 was removed from the queue 1.
+
+REMOVE: Client 797 was removed from the queue 1.
+
+REMOVE: Client 923 was removed from the queue 1.
+
+REMOVE: Client 20 was removed from the queue 1.
+
+REMOVE: Client 913 was removed from the queue 1.
+
+REMOVE: Client 35 was removed from the queue 1.
+
+REMOVE: Client 53 was removed from the queue 1.
+
+REMOVE: Client 50 was removed from the queue 1.
+
+REMOVE: Client 249 was removed from the queue 1.
+
+REMOVE: Client 117 was removed from the queue 1.
+
+REMOVE: Client 123 was removed from the queue 1.
+
+REMOVE: Client 165 was removed from the queue 1.
+
+REMOVE: Client 184 was removed from the queue 1.
+
+REMOVE: Client 187 was removed from the queue 1.
+
+REMOVE: Client 310 was removed from the queue 1.
+
+s removed from the queue 1.
+
+Time 25
+INSERT: Client 67 Was Added to the queue 3.
+
+INSERT: Client 341 Was Added to the queue 3.
+
+INSERT: Client 365 Was Added to the queue 3.
+
+INSERT: Client 370 Was Added to the queue 3.
+
+INSERT: Client 529 Was Added to the queue 3.
+
+INSERT: Client 583 Was Added to the queue 3.
+
+INSERT: Client 710 Was Added to the queue 3.
+
+INSERT: Client 713 Was Added to the queue 3.
+
+INSERT: Client 741 Was Added to the queue 3.
+
+INSERT: Client 968 Was Added to the queue 3.
+
+INSERT: Client 981 Was Added to the queue 3.
+
+REMOVE: Client 50 was removed from the queue 1.
+
+REMOVE: Client 945 was removed from the queue 1.
+
+REMOVE: Client 509 was removed from the queue 1.
+
+Time 26
+INSERT: Client 5 Was Added to the queue 4.
+
+INSERT: Client 44 Was Added to the queue 7.
+
+INSERT: Client 114 Was Added to the queue 8.
+
+INSERT: Client 456 Was Added to the queue 8.
+
+INSERT: Client 467 Was Added to the queue 9.
+
+INSERT: Client 588 Was Added to the queue 10.
+
+INSERT: Client 671 Was Added to the queue 11.
+
+INSERT: Client 829 Was Added to the queue 12.
+
+INSERT: Client 835 Was Added to the queue 13.
+
+INSERT: Client 870 Was Added to the queue 13.
+
+INSERT: Client 973 Was Added to the queue 13.
+
+Time 27
+INSERT: Client 161 Was Added to the queue 13.
+
+INSERT: Client 200 Was Added to the queue 13.
+
+INSERT: Client 240 Was Added to the queue 13.
+
+INSERT: Client 277 Was Added to the queue 13.
+
+INSERT: Client 613 Was Added to the queue 13.
+
+INSERT: Client 894 Was Added to the queue 13.
+
+REMOVE: Client 288 was removed from the queue 1.
+
+REMOVE: Client 250 was removed from the queue 1.
+
+Time 28
+INSERT: Client 8 Was Added to the queue 14.
+
+INSERT: Client 139 Was Added to the queue 15.
+
+INSERT: Client 195 Was Added to the queue 16.
+
+INSERT: Client 263 Was Added to the queue 17.
+
+INSERT: Client 308 Was Added to the queue 18.
+
+INSERT: Client 402 Was Added to the queue 19.
+
+INSERT: Client 440 Was Added to the queue 19.
+
+INSERT: Client 502 Was Added to the queue 19.
+
+INSERT: Client 641 Was Added to the queue 19.
+
+INSERT: Client 764 Was Added to the queue 19.
+
+INSERT: Client 899 Was Added to the queue 19.
+
+REMOVE: Client 235 was removed from the queue 1.
+
+REMOVE: Client 717 was removed from the queue 1.
+
+Time 29
+REMOVE: Client 5 was removed from the queue 1.
+
+INSERT: Client 134 Was Added to the queue 19.
+
+INSERT: Client 138 Was Added to the queue 19.
+
+INSERT: Client 223 Was Added to the queue 19.
+
+INSERT: Client 242 Was Added to the queue 19.
+
+INSERT: Client 282 Was Added to the queue 19.
+
+INSERT: Client 453 Was Added to the queue 19.
+
+INSERT: Client 520 Was Added to the queue 19.
+
+INSERT: Client 530 Was Added to the queue 19.
+
+INSERT: Client 550 Was Added to the queue 19.
+
+INSERT: Client 686 Was Added to the queue 19.
+
+INSERT: Client 811 Was Added to the queue 19.
+
+INSERT: Client 999 Was Added to the queue 19.
+
+REMOVE: Client 588 was removed from the queue 1.
+
+REMOVE: Client 458 was removed from the queue 1.
+
+REMOVE: Client 917 was removed from the queue 1.
+
+Time 30
+INSERT: Client 13 Was Added to the queue 3.
+
+INSERT: Client 81 Was Added to the queue 3.
+
+INSERT: Client 208 Was Added to the queue 3.
+
+INSERT: Client 318 Was Added to the queue 3.
+
+INSERT: Client 490 Was Added to the queue 3.
+
+INSERT: Client 737 Was Added to the queue 3.
+
+INSERT: Client 750 Was Added to the queue 3.
+
+INSERT: Client 794 Was Added to the queue 3.
+
+INSERT: Client 862 Was Added to the queue 3.
+
+INSERT: Client 924 Was Added to the queue 3.
+
+REMOVE: Client 809 was removed from the queue 1.
+
+Time 31
+INSERT: Client 32 Was Added to the queue 3.
+
+INSERT: Client 47 Was Added to the queue 3.
+
+INSERT: Client 52 Was Added to the queue 3.
+
+INSERT: Client 261 Was Added to the queue 3.
+
+INSERT: Client 321 Was Added to the queue 3.
+
+INSERT: Client 322 Was Added to the queue 3.
+
+INSERT: Client 482 Was Added to the queue 3.
+
+INSERT: Client 621 Was Added to the queue 3.
+
+INSERT: Client 639 Was Added to the queue 3.
+
+INSERT: Client 640 Was Added to the queue 3.
+
+INSERT: Client 748 Was Added to the queue 3.
+
+INSERT: Client 778 Was Added to the queue 3.
+
+INSERT: Client 789 Was Added to the queue 3.
+
+INSERT: Client 807 Was Added to the queue 3.
+
+INSERT: Client 810 Was Added to the queue 3.
+
+INSERT: Client 844 Was Added to the queue 3.
+
+INSERT: Client 913 Was Added to the queue 3.
+
+Time 32
+INSERT: Client 407 Was Added to the queue 3.
+
+INSERT: Client 454 Was Added to the queue 3.
+
+INSERT: Client 586 Was Added to the queue 3.
+
+INSERT: Client 663 Was Added to the queue 3.
+
+INSERT: Client 722 Was Added to the queue 3.
+
+INSERT: Client 818 Was Added to the queue 3.
+
+INSERT: Client 828 Was Added to the queue 3.
+
+INSERT: Client 843 Was Added to the queue 3.
+
+REMOVE: Client 195 was removed from the queue 1.
+
+REMOVE: Client 671 was removed from the queue 1.
+
+REMOVE: Client 308 was removed from the queue 1.
+
+REMOVE: Client 244 was removed from the queue 1.
+
+Time 33
+INSERT: Client 136 Was Added to the queue 3.
+
+INSERT: Client 254 Was Added to the queue 3.
+
+INSERT: Client 310 Was Added to the queue 3.
+
+INSERT: Client 414 Was Added to the queue 3.
+
+INSERT: Client 459 Was Added to the queue 3.
+
+INSERT: Client 472 Was Added to the queue 3.
+
+INSERT: Client 511 Was Added to the queue 3.
+
+INSERT: Client 524 Was Added to the queue 3.
+
+REMOVE: Client 467 was removed from the queue 1.
+
+REMOVE: Client 44 was removed from the queue 1.
+
+INSERT: Client 545 Was Added to the queue 3.
+
+INSERT: Client 552 Was Added to the queue 3.
+
+INSERT: Client 646 Was Added to the queue 3.
+
+INSERT: Client 768 Was Added to the queue 3.
+
+INSERT: Client 813 Was Added to the queue 3.
+
+INSERT: Client 953 Was Added to the queue 3.
+
+INSERT: Client 964 Was Added to the queue 3.
+
+REMOVE: Client 42 was removed from the queue 1.
+
+Time 34
+INSERT: Client 120 Was Added to the queue 3.
+
+INSERT: Client 349 Was Added to the queue 3.
+
+INSERT: Client 355 Was Added to the queue 3.
+
+INSERT: Client 357 Was Added to the queue 3.
+
+INSERT: Client 410 Was Added to the queue 3.
+
+INSERT: Client 448 Was Added to the queue 3.
+
+INSERT: Client 504 Was Added to the queue 3.
+
+INSERT: Client 518 Was Added to the queue 3.
+
+INSERT: Client 579 Was Added to the queue 3.
+
+INSERT: Client 654 Was Added to the queue 3.
+
+INSERT: Client 680 Was Added to the queue 3.
+
+INSERT: Client 703 Was Added to the queue 3.
+
+INSERT: Client 840 Was Added to the queue 3.
+
+INSERT: Client 847 Was Added to the queue 3.
+
+INSERT: Client 963 Was Added to the queue 3.
+
+INSERT: Client 967 Was Added to the queue 3.
+
+REMOVE: Client 79 was removed from the queue 1.
+
+REMOVE: Client 402 was removed from the queue 1.
+
+REMOVE: Client 8 was removed from the queue 1.
+
+REMOVE: Client 114 was removed from the queue 1.
+
+REMOVE: Client 829 was removed from the queue 1.
+
+Time 35
+INSERT: Client 48 Was Added to the queue 4.
+
+INSERT: Client 76 Was Added to the queue 4.
+
+INSERT: Client 97 Was Added to the queue 6.
+
+INSERT: Client 338 Was Added to the queue 6.
+
+INSERT: Client 523 Was Added to the queue 6.
+
+INSERT: Client 567 Was Added to the queue 7.
+
+INSERT: Client 576 Was Added to the queue 7.
+
+INSERT: Client 731 Was Added to the queue 9.
+
+INSERT: Client 775 Was Added to the queue 9.
+
+INSERT: Client 831 Was Added to the queue 10.
+
+INSERT: Client 865 Was Added to the queue 10.
+
+REMOVE: Client 263 was removed from the queue 1.
+
+Time 36
+INSERT: Client 39 Was Added to the queue 11.
+
+INSERT: Client 129 Was Added to the queue 12.
+
+INSERT: Client 191 Was Added to the queue 14.
+
+INSERT: Client 268 Was Added to the queue 15.
+
+INSERT: Client 270 Was Added to the queue 15.
+
+INSERT: Client 486 Was Added to the queue 15.
+
+INSERT: Client 499 Was Added to the queue 15.
+
+INSERT: Client 571 Was Added to the queue 15.
+
+INSERT: Client 592 Was Added to the queue 15.
+
+INSERT: Client 604 Was Added to the queue 15.
+
+INSERT: Client 799 Was Added to the queue 15.
+
+INSERT: Client 871 Was Added to the queue 15.
+
+REMOVE: Client 757 was removed from the queue 1.
+
+REMOVE: Client 139 was removed from the queue 1.
+
+Time 37
+INSERT: Client 83 Was Added to the queue 16.
+
+INSERT: Client 168 Was Added to the queue 16.
+
+INSERT: Client 234 Was Added to the queue 17.
+
+INSERT: Client 381 Was Added to the queue 18.
+
+INSERT: Client 385 Was Added to the queue 18.
+
+INSERT: Client 400 Was Added to the queue 20.
+
+INSERT: Client 683 Was Added to the queue 2.
+
+INSERT: Client 708 Was Added to the queue 2.
+
+INSERT: Client 793 Was Added to the queue 2.
+
+INSERT: Client 850 Was Added to the queue 2.
+
+Time 38
+INSERT: Client 154 Was Added to the queue 2.
+
+INSERT: Client 255 Was Added to the queue 2.
+
+INSERT: Client 332 Was Added to the queue 2.
+
+INSERT: Client 397 Was Added to the queue 2.
+
+INSERT: Client 452 Was Added to the queue 2.
+
+INSERT: Client 503 Was Added to the queue 2.
+
+INSERT: Client 528 Was Added to the queue 2.
+
+INSERT: Client 566 Was Added to the queue 2.
+
+INSERT: Client 628 Was Added to the queue 2.
+
+INSERT: Client 693 Was Added to the queue 2.
+
+INSERT: Client 718 Was Added to the queue 2.
+
+INSERT: Client 796 Was Added to the queue 2.
+
+INSERT: Client 966 Was Added to the queue 2.
+
+INSERT: Client 983 Was Added to the queue 2.
+
+REMOVE: Client 471 was removed from the queue 1.
+
+REMOVE: Client 71 was removed from the queue 1.
+
+Time 39
+INSERT: Client 87 Was Added to the queue 3.
+
+INSERT: Client 98 Was Added to the queue 3.
+
+INSERT: Client 253 Was Added to the queue 3.
+
+INSERT: Client 296 Was Added to the queue 3.
+
+REMOVE: Client 456 was removed from the queue 1.
+
+INSERT: Client 392 Was Added to the queue 3.
+
+INSERT: Client 420 Was Added to the queue 3.
+
+INSERT: Client 477 Was Added to the queue 3.
+
+INSERT: Client 632 Was Added to the queue 3.
+
+INSERT: Client 677 Was Added to the queue 3.
+
+INSERT: Client 730 Was Added to the queue 3.
+
+INSERT: Client 738 Was Added to the queue 3.
+
+INSERT: Client 815 Was Added to the queue 3.
+
+INSERT: Client 977 Was Added to the queue 3.
+
+REMOVE: Client 731 was removed from the queue 1.
+
+REMOVE: Client 284 was removed from the queue 1.
+
+Time 40
+INSERT: Client 9 Was Added to the queue 4.
+
+INSERT: Client 53 Was Added to the queue 4.
+
+INSERT: Client 103 Was Added to the queue 4.
+
+INSERT: Client 238 Was Added to the queue 4.
+
+INSERT: Client 469 Was Added to the queue 4.
+
+INSERT: Client 619 Was Added to the queue 4.
+
+INSERT: Client 648 Was Added to the queue 4.
+
+REMOVE: Client 400 was removed from the queue 1.
+
+INSERT: Client 706 Was Added to the queue 4.
+
+INSERT: Client 755 Was Added to the queue 4.
+
+INSERT: Client 883 Was Added to the queue 4.
+
+REMOVE: Client 440 was removed from the queue 1.
+
+REMOVE: Client 191 was removed from the queue 1.
+
+Time 41
+INSERT: Client 18 Was Added to the queue 4.
+
+INSERT: Client 58 Was Added to the queue 4.
+
+INSERT: Client 110 Was Added to the queue 4.
+
+INSERT: Client 143 Was Added to the queue 4.
+
+INSERT: Client 175 Was Added to the queue 4.
+
+INSERT: Client 221 Was Added to the queue 4.
+
+INSERT: Client 233 Was Added to the queue 4.
+
+INSERT: Client 278 Was Added to the queue 4.
+
+INSERT: Client 373 Was Added to the queue 4.
+
+INSERT: Client 756 Was Added to the queue 4.
+
+INSERT: Client 797 Was Added to the queue 4.
+
+INSERT: Client 824 Was Added to the queue 4.
+
+INSERT: Client 957 Was Added to the queue 4.
+
+REMOVE: Client 312 was removed from the queue 1.
+
+REMOVE: Client 814 was removed from the queue 1.
+
+REMOVE: Client 83 was removed from the queue 1.
+
+Time 42
+INSERT: Client 66 Was Added to the queue 4.
+
+INSERT: Client 128 Was Added to the queue 4.
+
+INSERT: Client 135 Was Added to the queue 4.
+
+INSERT: Client 548 Was Added to the queue 4.
+
+INSERT: Client 598 Was Added to the queue 4.
+
+INSERT: Client 610 Was Added to the queue 4.
+
+REMOVE: Client 831 was removed from the queue 1.
+
+REMOVE: Client 48 was removed from the queue 1.
+
+REMOVE: Client 567 was removed from the queue 1.
+
+INSERT: Client 624 Was Added to the queue 4.
+
+INSERT: Client 746 Was Added to the queue 6.
+
+INSERT: Client 767 Was Added to the queue 6.
+
+INSERT: Client 782 Was Added to the queue 6.
+
+INSERT: Client 926 Was Added to the queue 6.
+
+REMOVE: Client 775 was removed from the queue 1.
+
+INSERT: Client 952 Was Added to the queue 6.
+
+REMOVE: Client 268 was removed from the queue 1.
+
+REMOVE: Client 234 was removed from the queue 1.
+
+Time 43
+INSERT: Client 164 Was Added to the queue 6.
+
+INSERT: Client 266 Was Added to the queue 6.
+
+INSERT: Client 292 Was Added to the queue 6.
+
+INSERT: Client 500 Was Added to the queue 6.
+
+INSERT: Client 549 Was Added to the queue 6.
+
+INSERT: Client 612 Was Added to the queue 6.
+
+INSERT: Client 694 Was Added to the queue 6.
+
+INSERT: Client 727 Was Added to the queue 6.
+
+INSERT: Client 837 Was Added to the queue 6.
+
+INSERT: Client 950 Was Added to the queue 6.
+
+INSERT: Client 972 Was Added to the queue 6.
+
+REMOVE: Client 230 was removed from the queue 1.
+
+REMOVE: Client 709 was removed from the queue 1.
+
+REMOVE: Client 502 was removed from the queue 1.
+
+Time 44
+REMOVE: Client 39 was removed from the queue 1.
+
+REMOVE: Client 381 was removed from the queue 1.
+
+REMOVE: Client 97 was removed from the queue 1.
+
+INSERT: Client 125 Was Added to the queue 6.
+
+INSERT: Client 150 Was Added to the queue 8.
+
+INSERT: Client 264 Was Added to the queue 11.
+
+INSERT: Client 313 Was Added to the queue 12.
+
+INSERT: Client 582 Was Added to the queue 12.
+
+INSERT: Client 637 Was Added to the queue 12.
+
+INSERT: Client 820 Was Added to the queue 12.
+
+INSERT: Client 839 Was Added to the queue 12.
+
+INSERT: Client 942 Was Added to the queue 12.
+
+REMOVE: Client 335 was removed from the queue 1.
+
+REMOVE: Client 129 was removed from the queue 1.
+
+REMOVE: Client 576 was removed from the queue 1.
+
+Time 45
+INSERT: Client 151 Was Added to the queue 14.
+
+INSERT: Client 225 Was Added to the queue 17.
+
+INSERT: Client 226 Was Added to the queue 17.
+
+INSERT: Client 280 Was Added to the queue 20.
+
+INSERT: Client 345 Was Added to the queue 20.
+
+INSERT: Client 347 Was Added to the queue 4.
+
+INSERT: Client 379 Was Added to the queue 4.
+
+INSERT: Client 521 Was Added to the queue 4.
+
+INSERT: Client 702 Was Added to the queue 4.
+
+INSERT: Client 853 Was Added to the queue 4.
+
+REMOVE: Client 76 was removed from the queue 1.
+
+Time 46
+INSERT: Client 54 Was Added to the queue 6.
+
+INSERT: Client 111 Was Added to the queue 6.
+
+INSERT: Client 131 Was Added to the queue 6.
+
+INSERT: Client 204 Was Added to the queue 6.
+
+INSERT: Client 311 Was Added to the queue 6.
+
+INSERT: Client 387 Was Added to the queue 6.
+
+INSERT: Client 488 Was Added to the queue 6.
+
+INSERT: Client 705 Was Added to the queue 6.
+
+INSERT: Client 715 Was Added to the queue 6.
+
+INSERT: Client 876 Was Added to the queue 6.
+
+REMOVE: Client 752 was removed from the queue 1.
+
+REMOVE: Client 150 was removed from the queue 1.
+
+Time 47
+INSERT: Client 33 Was Added to the queue 6.
+
+INSERT: Client 189 Was Added to the queue 6.
+
+INSERT: Client 636 Was Added to the queue 6.
+
+INSERT: Client 650 Was Added to the queue 6.
+
+INSERT: Client 656 Was Added to the queue 6.
+
+REMOVE: Client 168 was removed from the queue 1.
+
+REMOVE: Client 151 was removed from the queue 1.
+
+Time 48
+REMOVE: Client 264 was removed from the queue 1.
+
+INSERT: Client 22 Was Added to the queue 6.
+
+INSERT: Client 36 Was Added to the queue 6.
+
+INSERT: Client 61 Was Added to the queue 6.
+
+INSERT: Client 91 Was Added to the queue 6.
+
+INSERT: Client 92 Was Added to the queue 6.
+
+INSERT: Client 130 Was Added to the queue 6.
+
+INSERT: Client 236 Was Added to the queue 6.
+
+INSERT: Client 333 Was Added to the queue 6.
+
+INSERT: Client 399 Was Added to the queue 6.
+
+INSERT: Client 478 Was Added to the queue 6.
+
+INSERT: Client 534 Was Added to the queue 6.
+
+INSERT: Client 551 Was Added to the queue 6.
+
+INSERT: Client 603 Was Added to the queue 6.
+
+INSERT: Client 642 Was Added to the queue 6.
+
+INSERT: Client 657 Was Added to the queue 6.
+
+INSERT: Client 845 Was Added to the queue 6.
+
+REMOVE: Client 406 was removed from the queue 1.
+
+REMOVE: Client 822 was removed from the queue 1.
+
+REMOVE: Client 346 was removed from the queue 1.
+
+REMOVE: Client 270 was removed from the queue 1.
+
+REMOVE: Client 313 was removed from the queue 1.
+
+Time 49
+INSERT: Client 78 Was Added to the queue 6.
+
+INSERT: Client 273 Was Added to the queue 6.
+
+INSERT: Client 393 Was Added to the queue 6.
+
+INSERT: Client 466 Was Added to the queue 6.
+
+INSERT: Client 522 Was Added to the queue 6.
+
+INSERT: Client 584 Was Added to the queue 6.
+
+INSERT: Client 595 Was Added to the queue 6.
+
+INSERT: Client 600 Was Added to the queue 6.
+
+INSERT: Client 633 Was Added to the queue 6.
+
+INSERT: Client 667 Was Added to the queue 6.
+
+INSERT: Client 691 Was Added to the queue 6.
+
+INSERT: Client 744 Was Added to the queue 6.
+
+INSERT: Client 781 Was Added to the queue 6.
+
+INSERT: Client 790 Was Added to the queue 6.
+
+INSERT: Client 861 Was Added to the queue 6.
+
+INSERT: Client 905 Was Added to the queue 6.
+
+REMOVE: Client 338 was removed from the queue 1.
+
+REMOVE: Client 280 was removed from the queue 1.
+
+Time 50
+INSERT: Client 10 Was Added to the queue 7.
+
+INSERT: Client 100 Was Added to the queue 8.
+
+INSERT: Client 118 Was Added to the queue 9.
+
+INSERT: Client 186 Was Added to the queue 10.
+
+INSERT: Client 276 Was Added to the queue 10.
+
+INSERT: Client 344 Was Added to the queue 10.
+
+INSERT: Client 358 Was Added to the queue 10.
+
+INSERT: Client 383 Was Added to the queue 10.
+
+INSERT: Client 415 Was Added to the queue 10.
+
+INSERT: Client 479 Was Added to the queue 10.
+
+INSERT: Client 573 Was Added to the queue 10.
+
+INSERT: Client 653 Was Added to the queue 10.
+
+REMOVE: Client 641 was removed from the queue 1.
+
+REMOVE: Client 385 was removed from the queue 1.
+
+Time 51
+INSERT: Client 88 Was Added to the queue 10.
+
+INSERT: Client 95 Was Added to the queue 10.
+
+INSERT: Client 145 Was Added to the queue 10.
+
+INSERT: Client 147 Was Added to the queue 10.
+
+INSERT: Client 157 Was Added to the queue 10.
+
+INSERT: Client 398 Was Added to the queue 10.
+
+INSERT: Client 426 Was Added to the queue 10.
+
+INSERT: Client 441 Was Added to the queue 10.
+
+INSERT: Client 495 Was Added to the queue 10.
+
+INSERT: Client 647 Was Added to the queue 10.
+
+REMOVE: Client 865 was removed from the queue 1.
+
+INSERT: Client 805 Was Added to the queue 10.
+
+INSERT: Client 832 Was Added to the queue 11.
+
+INSERT: Client 836 Was Added to the queue 11.
+
+INSERT: Client 842 Was Added to the queue 14.
+
+INSERT: Client 872 Was Added to the queue 14.
+
+Time 52
+INSERT: Client 37 Was Added to the queue 16.
+
+INSERT: Client 49 Was Added to the queue 17.
+
+INSERT: Client 65 Was Added to the queue 17.
+
+INSERT: Client 105 Was Added to the queue 17.
+
+INSERT: Client 237 Was Added to the queue 17.
+
+INSERT: Client 258 Was Added to the queue 17.
+
+INSERT: Client 259 Was Added to the queue 17.
+
+INSERT: Client 339 Was Added to the queue 17.
+
+INSERT: Client 439 Was Added to the queue 17.
+
+INSERT: Client 446 Was Added to the queue 17.
+
+INSERT: Client 540 Was Added to the queue 17.
+
+INSERT: Client 678 Was Added to the queue 17.
+
+INSERT: Client 707 Was Added to the queue 17.
+
+INSERT: Client 733 Was Added to the queue 17.
+
+INSERT: Client 896 Was Added to the queue 17.
+
+INSERT: Client 956 Was Added to the queue 17.
+
+INSERT: Client 988 Was Added to the queue 17.
+
+INSERT: Client 997 Was Added to the queue 17.
+
+REMOVE: Client 300 was removed from the queue 1.
+
+Time 53
+INSERT: Client 26 Was Added to the queue 17.
+
+INSERT: Client 62 Was Added to the queue 17.
+
+INSERT: Client 106 Was Added to the queue 17.
+
+INSERT: Client 193 Was Added to the queue 17.
+
+INSERT: Client 388 Was Added to the queue 17.
+
+INSERT: Client 401 Was Added to the queue 17.
+
+INSERT: Client 546 Was Added to the queue 17.
+
+INSERT: Client 665 Was Added to the queue 17.
+
+INSERT: Client 751 Was Added to the queue 17.
+
+INSERT: Client 773 Was Added to the queue 17.
+
+INSERT: Client 846 Was Added to the queue 17.
+
+INSERT: Client 1000 Was Added to the queue 17.
+
+REMOVE: Client 118 was removed from the queue 1.
+
+Time 54
+INSERT: Client 6 Was Added to the queue 17.
+
+INSERT: Client 112 Was Added to the queue 17.
+
+INSERT: Client 473 Was Added to the queue 17.
+
+INSERT: Client 483 Was Added to the queue 17.
+
+INSERT: Client 531 Was Added to the queue 17.
+
+INSERT: Client 578 Was Added to the queue 17.
+
+REMOVE: Client 523 was removed from the queue 1.
+
+INSERT: Client 599 Was Added to the queue 17.
+
+INSERT: Client 611 Was Added to the queue 17.
+
+INSERT: Client 716 Was Added to the queue 17.
+
+INSERT: Client 720 Was Added to the queue 17.
+
+REMOVE: Client 225 was removed from the queue 1.
+
+REMOVE: Client 100 was removed from the queue 1.
+
+REMOVE: Client 842 was removed from the queue 1.
+
+REMOVE: Client 764 was removed from the queue 1.
+
+REMOVE: Client 9 was removed from the queue 1.
+
+REMOVE: Client 10 was removed from the queue 1.
+
+REMOVE: Client 186 was removed from the queue 1.
+
+Time 55
+INSERT: Client 14 Was Added to the queue 18.
+
+INSERT: Client 75 Was Added to the queue 18.
+
+INSERT: Client 116 Was Added to the queue 7.
+
+INSERT: Client 170 Was Added to the queue 8.
+
+INSERT: Client 568 Was Added to the queue 8.
+
+INSERT: Client 626 Was Added to the queue 9.
+
+INSERT: Client 851 Was Added to the queue 11.
+
+INSERT: Client 877 Was Added to the queue 11.
+
+INSERT: Client 908 Was Added to the queue 11.
+
+INSERT: Client 989 Was Added to the queue 11.
+
+REMOVE: Client 431 was removed from the queue 1.
+
+REMOVE: Client 927 was removed from the queue 1.
+
+REMOVE: Client 501 was removed from the queue 1.
+
+REMOVE: Client 864 was removed from the queue 1.
+
+REMOVE: Client 582 was removed from the queue 1.
+
+Time 56
+INSERT: Client 140 Was Added to the queue 11.
+
+INSERT: Client 319 Was Added to the queue 11.
+
+INSERT: Client 457 Was Added to the queue 11.
+
+INSERT: Client 498 Was Added to the queue 11.
+
+INSERT: Client 510 Was Added to the queue 11.
+
+INSERT: Client 672 Was Added to the queue 11.
+
+INSERT: Client 804 Was Added to the queue 11.
+
+INSERT: Client 880 Was Added to the queue 11.
+
+INSERT: Client 993 Was Added to the queue 11.
+
+REMOVE: Client 345 was removed from the queue 1.
+
+REMOVE: Client 486 was removed from the queue 1.
+
+REMOVE: Client 832 was removed from the queue 1.
+
+REMOVE: Client 37 was removed from the queue 1.
+
+Time 57
+INSERT: Client 1 Was Added to the queue 16.
+
+INSERT: Client 17 Was Added to the queue 17.
+
+INSERT: Client 27 Was Added to the queue 17.
+
+INSERT: Client 108 Was Added to the queue 17.
+
+INSERT: Client 153 Was Added to the queue 17.
+
+INSERT: Client 198 Was Added to the queue 17.
+
+INSERT: Client 267 Was Added to the queue 17.
+
+INSERT: Client 555 Was Added to the queue 17.
+
+INSERT: Client 728 Was Added to the queue 17.
+
+INSERT: Client 734 Was Added to the queue 17.
+
+INSERT: Client 742 Was Added to the queue 17.
+
+INSERT: Client 802 Was Added to the queue 17.
+
+INSERT: Client 848 Was Added to the queue 17.
+
+INSERT: Client 903 Was Added to the queue 17.
+
+REMOVE: Client 348 was removed from the queue 1.
+
+REMOVE: Client 626 was removed from the queue 1.
+
+Time 58
+INSERT: Client 3 Was Added to the queue 17.
+
+INSERT: Client 183 Was Added to the queue 17.
+
+INSERT: Client 202 Was Added to the queue 17.
+
+INSERT: Client 428 Was Added to the queue 17.
+
+INSERT: Client 544 Was Added to the queue 17.
+
+INSERT: Client 625 Was Added to the queue 17.
+
+INSERT: Client 719 Was Added to the queue 17.
+
+INSERT: Client 762 Was Added to the queue 17.
+
+INSERT: Client 938 Was Added to the queue 17.
+
+REMOVE: Client 535 was removed from the queue 1.
+
+REMOVE: Client 899 was removed from the queue 1.
+
+REMOVE: Client 116 was removed from the queue 1.
+
+REMOVE: Client 746 was removed from the queue 1.
+
+REMOVE: Client 276 was removed from the queue 1.
+
+REMOVE: Client 14 was removed from the queue 1.
+
+Time 59
+INSERT: Client 12 Was Added to the queue 17.
+
+INSERT: Client 20 Was Added to the queue 17.
+
+INSERT: Client 34 Was Added to the queue 17.
+
+INSERT: Client 73 Was Added to the queue 17.
+
+INSERT: Client 113 Was Added to the queue 17.
+
+INSERT: Client 121 Was Added to the queue 17.
+
+INSERT: Client 160 Was Added to the queue 17.
+
+INSERT: Client 220 Was Added to the queue 17.
+
+INSERT: Client 293 Was Added to the queue 17.
+
+INSERT: Client 324 Was Added to the queue 17.
+
+INSERT: Client 425 Was Added to the queue 17.
+
+INSERT: Client 515 Was Added to the queue 17.
+
+INSERT: Client 629 Was Added to the queue 17.
+
+INSERT: Client 723 Was Added to the queue 17.
+
+INSERT: Client 965 Was Added to the queue 17.
+
+REMOVE: Client 170 was removed from the queue 1.
+
+Time 60
+INSERT: Client 68 Was Added to the queue 17.
+
+INSERT: Client 279 Was Added to the queue 17.
+
+INSERT: Client 354 Was Added to the queue 17.
+
+INSERT: Client 435 Was Added to the queue 17.
+
+INSERT: Client 514 Was Added to the queue 17.
+
+INSERT: Client 594 Was Added to the queue 17.
+
+INSERT: Client 819 Was Added to the queue 17.
+
+INSERT: Client 944 Was Added to the queue 17.
+
+INSERT: Client 992 Was Added to the queue 17.
+
+REMOVE: Client 682 was removed from the queue 1.
+
+REMOVE: Client 53 was removed from the queue 1.
+
+Time 61
+INSERT: Client 205 Was Added to the queue 17.
+
+INSERT: Client 218 Was Added to the queue 17.
+
+INSERT: Client 303 Was Added to the queue 17.
+
+INSERT: Client 492 Was Added to the queue 17.
+
+INSERT: Client 532 Was Added to the queue 17.
+
+INSERT: Client 547 Was Added to the queue 17.
+
+INSERT: Client 618 Was Added to the queue 17.
+
+INSERT: Client 658 Was Added to the queue 17.
+
+INSERT: Client 852 Was Added to the queue 17.
+
+INSERT: Client 900 Was Added to the queue 17.
+
+INSERT: Client 922 Was Added to the queue 17.
+
+INSERT: Client 976 Was Added to the queue 17.
+
+REMOVE: Client 637 was removed from the queue 1.
+
+REMOVE: Client 872 was removed from the queue 1.
+
+REMOVE: Client 767 was removed from the queue 1.
+
+Time 62
+INSERT: Client 378 Was Added to the queue 17.
+
+INSERT: Client 512 Was Added to the queue 17.
+
+INSERT: Client 675 Was Added to the queue 17.
+
+INSERT: Client 712 Was Added to the queue 17.
+
+INSERT: Client 726 Was Added to the queue 17.
+
+INSERT: Client 786 Was Added to the queue 17.
+
+INSERT: Client 875 Was Added to the queue 17.
+
+INSERT: Client 882 Was Added to the queue 17.
+
+INSERT: Client 987 Was Added to the queue 17.
+
+INSERT: Client 991 Was Added to the queue 17.
+
+REMOVE: Client 226 was removed from the queue 1.
+
+Time 63
+INSERT: Client 15 Was Added to the queue 20.
+
+INSERT: Client 41 Was Added to the queue 5.
+
+INSERT: Client 85 Was Added to the queue 7.
+
+INSERT: Client 228 Was Added to the queue 9.
+
+INSERT: Client 422 Was Added to the queue 11.
+
+INSERT: Client 489 Was Added to the queue 11.
+
+INSERT: Client 736 Was Added to the queue 11.
+
+INSERT: Client 753 Was Added to the queue 11.
+
+INSERT: Client 912 Was Added to the queue 11.
+
+REMOVE: Client 868 was removed from the queue 1.
+
+REMOVE: Client 911 was removed from the queue 1.
+
+REMOVE: Client 935 was removed from the queue 1.
+
+REMOVE: Client 75 was removed from the queue 1.
+
+REMOVE: Client 344 was removed from the queue 1.
+
+REMOVE: Client 1 was removed from the queue 1.
+
+Time 64
+INSERT: Client 165 Was Added to the queue 11.
+
+INSERT: Client 376 Was Added to the queue 11.
+
+INSERT: Client 417 Was Added to the queue 11.
+
+INSERT: Client 451 Was Added to the queue 11.
+
+INSERT: Client 476 Was Added to the queue 11.
+
+INSERT: Client 587 Was Added to the queue 11.
+
+INSERT: Client 823 Was Added to the queue 11.
+
+INSERT: Client 996 Was Added to the queue 11.
+
+REMOVE: Client 351 was removed from the queue 1.
+
+REMOVE: Client 103 was removed from the queue 1.
+
+REMOVE: Client 836 was removed from the queue 1.
+
+REMOVE: Client 499 was removed from the queue 1.
+
+Time 65
+INSERT: Client 46 Was Added to the queue 14.
+
+INSERT: Client 99 Was Added to the queue 14.
+
+INSERT: Client 141 Was Added to the queue 16.
+
+INSERT: Client 162 Was Added to the queue 16.
+
+INSERT: Client 295 Was Added to the queue 17.
+
+INSERT: Client 366 Was Added to the queue 17.
+
+INSERT: Client 558 Was Added to the queue 17.
+
+INSERT: Client 795 Was Added to the queue 17.
+
+INSERT: Client 888 Was Added to the queue 17.
+
+INSERT: Client 893 Was Added to the queue 17.
+
+INSERT: Client 970 Was Added to the queue 17.
+
+REMOVE: Client 134 was removed from the queue 1.
+
+REMOVE: Client 782 was removed from the queue 1.
+
+Time 66
+INSERT: Client 45 Was Added to the queue 17.
+
+INSERT: Client 171 Was Added to the queue 17.
+
+INSERT: Client 597 Was Added to the queue 17.
+
+INSERT: Client 638 Was Added to the queue 17.
+
+INSERT: Client 697 Was Added to the queue 17.
+
+INSERT: Client 863 Was Added to the queue 17.
+
+INSERT: Client 921 Was Added to the queue 17.
+
+REMOVE: Client 820 was removed from the queue 1.
+
+REMOVE: Client 568 was removed from the queue 1.
+
+Time 67
+INSERT: Client 28 Was Added to the queue 17.
+
+REMOVE: Client 15 was removed from the queue 1.
+
+INSERT: Client 315 Was Added to the queue 17.
+
+INSERT: Client 668 Was Added to the queue 17.
+
+INSERT: Client 676 Was Added to the queue 17.
+
+INSERT: Client 909 Was Added to the queue 17.
+
+INSERT: Client 916 Was Added to the queue 17.
+
+INSERT: Client 932 Was Added to the queue 17.
+
+INSERT: Client 946 Was Added to the queue 17.
+
+INSERT: Client 955 Was Added to the queue 17.
+
+REMOVE: Client 49 was removed from the queue 1.
+
+Time 68
+INSERT: Client 11 Was Added to the queue 18.
+
+INSERT: Client 60 Was Added to the queue 18.
+
+INSERT: Client 74 Was Added to the queue 20.
+
+INSERT: Client 211 Was Added to the queue 20.
+
+INSERT: Client 271 Was Added to the queue 5.
+
+INSERT: Client 360 Was Added to the queue 5.
+
+INSERT: Client 561 Was Added to the queue 5.
+
+INSERT: Client 616 Was Added to the queue 5.
+
+INSERT: Client 821 Was Added to the queue 5.
+
+INSERT: Client 841 Was Added to the queue 5.
+
+INSERT: Client 961 Was Added to the queue 5.
+
+REMOVE: Client 228 was removed from the queue 1.
+
+REMOVE: Client 906 was removed from the queue 1.
+
+Time 69
+INSERT: Client 89 Was Added to the queue 5.
+
+INSERT: Client 159 Was Added to the queue 5.
+
+INSERT: Client 290 Was Added to the queue 5.
+
+INSERT: Client 305 Was Added to the queue 5.
+
+INSERT: Client 364 Was Added to the queue 5.
+
+INSERT: Client 390 Was Added to the queue 5.
+
+INSERT: Client 443 Was Added to the queue 5.
+
+INSERT: Client 508 Was Added to the queue 5.
+
+INSERT: Client 536 Was Added to the queue 5.
+
+INSERT: Client 563 Was Added to the queue 5.
+
+INSERT: Client 607 Was Added to the queue 5.
+
+INSERT: Client 620 Was Added to the queue 5.
+
+INSERT: Client 651 Was Added to the queue 5.
+
+INSERT: Client 749 Was Added to the queue 5.
+
+INSERT: Client 878 Was Added to the queue 5.
+
+INSERT: Client 907 Was Added to the queue 5.
+
+REMOVE: Client 851 was removed from the queue 1.
+
+Time 70
+INSERT: Client 96 Was Added to the queue 5.
+
+REMOVE: Client 46 was removed from the queue 1.
+
+REMOVE: Client 141 was removed from the queue 1.
+
+INSERT: Client 190 Was Added to the queue 5.
+
+INSERT: Client 352 Was Added to the queue 5.
+
+INSERT: Client 468 Was Added to the queue 5.
+
+INSERT: Client 575 Was Added to the queue 5.
+
+INSERT: Client 614 Was Added to the queue 5.
+
+INSERT: Client 681 Was Added to the queue 5.
+
+INSERT: Client 739 Was Added to the queue 5.
+
+INSERT: Client 858 Was Added to the queue 5.
+
+Time 71
+INSERT: Client 56 Was Added to the queue 5.
+
+INSERT: Client 192 Was Added to the queue 5.
+
+INSERT: Client 334 Was Added to the queue 5.
+
+INSERT: Client 336 Was Added to the queue 5.
+
+INSERT: Client 386 Was Added to the queue 5.
+
+INSERT: Client 437 Was Added to the queue 5.
+
+INSERT: Client 589 Was Added to the queue 5.
+
+INSERT: Client 780 Was Added to the queue 5.
+
+INSERT: Client 800 Was Added to the queue 5.
+
+INSERT: Client 897 Was Added to the queue 5.
+
+REMOVE: Client 41 was removed from the queue 1.
+
+REMOVE: Client 74 was removed from the queue 1.
+
+REMOVE: Client 507 was removed from the queue 1.
+
+REMOVE: Client 839 was removed from the queue 1.
+
+REMOVE: Client 358 was removed from the queue 1.
+
+Time 72
+INSERT: Client 375 Was Added to the queue 7.
+
+INSERT: Client 419 Was Added to the queue 7.
+
+INSERT: Client 491 Was Added to the queue 7.
+
+INSERT: Client 569 Was Added to the queue 7.
+
+INSERT: Client 630 Was Added to the queue 7.
+
+INSERT: Client 760 Was Added to the queue 7.
+
+INSERT: Client 812 Was Added to the queue 7.
+
+INSERT: Client 879 Was Added to the queue 7.
+
+INSERT: Client 923 Was Added to the queue 7.
+
+INSERT: Client 962 Was Added to the queue 7.
+
+REMOVE: Client 85 was removed from the queue 1.
+
+REMOVE: Client 947 was removed from the queue 1.
+
+REMOVE: Client 925 was removed from the queue 1.
+
+Time 73
+INSERT: Client 43 Was Added to the queue 8.
+
+INSERT: Client 55 Was Added to the queue 8.
+
+INSERT: Client 72 Was Added to the queue 9.
+
+INSERT: Client 181 Was Added to the queue 15.
+
+INSERT: Client 260 Was Added to the queue 15.
+
+INSERT: Client 307 Was Added to the queue 15.
+
+INSERT: Client 350 Was Added to the queue 15.
+
+INSERT: Client 411 Was Added to the queue 15.
+
+INSERT: Client 777 Was Added to the queue 15.
+
+INSERT: Client 784 Was Added to the queue 15.
+
+INSERT: Client 884 Was Added to the queue 15.
+
+INSERT: Client 940 Was Added to the queue 15.
+
+REMOVE: Client 238 was removed from the queue 1.
+
+REMOVE: Client 926 was removed from the queue 1.
+
+REMOVE: Client 571 was removed from the queue 1.
+
+Time 74
+INSERT: Client 84 Was Added to the queue 17.
+
+INSERT: Client 177 Was Added to the queue 17.
+
+INSERT: Client 340 Was Added to the queue 17.
+
+INSERT: Client 434 Was Added to the queue 17.
+
+INSERT: Client 577 Was Added to the queue 17.
+
+INSERT: Client 816 Was Added to the queue 17.
+
+REMOVE: Client 984 was removed from the queue 1.
+
+REMOVE: Client 138 was removed from the queue 1.
+
+REMOVE: Client 65 was removed from the queue 1.
+
+Time 75
+INSERT: Client 59 Was Added to the queue 18.
+
+INSERT: Client 275 Was Added to the queue 18.
+
+INSERT: Client 330 Was Added to the queue 18.
+
+INSERT: Client 377 Was Added to the queue 18.
+
+INSERT: Client 513 Was Added to the queue 18.
+
+INSERT: Client 516 Was Added to the queue 18.
+
+INSERT: Client 615 Was Added to the queue 18.
+
+INSERT: Client 622 Was Added to the queue 18.
+
+REMOVE: Client 11 was removed from the queue 1.
+
+REMOVE: Client 375 was removed from the queue 1.
+
+REMOVE: Client 539 was removed from the queue 1.
+
+REMOVE: Client 383 was removed from the queue 1.
+
+Time 76
+INSERT: Client 23 Was Added to the queue 5.
+
+INSERT: Client 127 Was Added to the queue 5.
+
+INSERT: Client 391 Was Added to the queue 5.
+
+INSERT: Client 429 Was Added to the queue 5.
+
+INSERT: Client 450 Was Added to the queue 5.
+
+INSERT: Client 554 Was Added to the queue 5.
+
+INSERT: Client 692 Was Added to the queue 5.
+
+INSERT: Client 743 Was Added to the queue 5.
+
+INSERT: Client 766 Was Added to the queue 5.
+
+INSERT: Client 833 Was Added to the queue 5.
+
+INSERT: Client 920 Was Added to the queue 5.
+
+INSERT: Client 951 Was Added to the queue 5.
+
+INSERT: Client 971 Was Added to the queue 5.
+
+REMOVE: Client 162 was removed from the queue 1.
+
+REMOVE: Client 928 was removed from the queue 1.
+
+Time 77
+INSERT: Client 19 Was Added to the queue 5.
+
+INSERT: Client 63 Was Added to the queue 5.
+
+INSERT: Client 158 Was Added to the queue 5.
+
+INSERT: Client 207 Was Added to the queue 5.
+
+INSERT: Client 248 Was Added to the queue 5.
+
+INSERT: Client 309 Was Added to the queue 5.
+
+INSERT: Client 542 Was Added to the queue 5.
+
+INSERT: Client 660 Was Added to the queue 5.
+
+INSERT: Client 732 Was Added to the queue 5.
+
+INSERT: Client 874 Was Added to the queue 5.
+
+INSERT: Client 885 Was Added to the queue 5.
+
+INSERT: Client 930 Was Added to the queue 5.
+
+REMOVE: Client 99 was removed from the queue 1.
+
+REMOVE: Client 877 was removed from the queue 1.
+
+Time 78
+INSERT: Client 82 Was Added to the queue 5.
+
+INSERT: Client 149 Was Added to the queue 5.
+
+INSERT: Client 213 Was Added to the queue 5.
+
+INSERT: Client 241 Was Added to the queue 5.
+
+INSERT: Client 367 Was Added to the queue 5.
+
+INSERT: Client 371 Was Added to the queue 5.
+
+INSERT: Client 436 Was Added to the queue 5.
+
+INSERT: Client 465 Was Added to the queue 5.
+
+REMOVE: Client 72 was removed from the queue 1.
+
+REMOVE: Client 271 was removed from the queue 1.
+
+REMOVE: Client 211 was removed from the queue 1.
+
+Time 79
+INSERT: Client 297 Was Added to the queue 8.
+
+INSERT: Client 382 Was Added to the queue 8.
+
+INSERT: Client 409 Was Added to the queue 8.
+
+INSERT: Client 635 Was Added to the queue 8.
+
+INSERT: Client 689 Was Added to the queue 8.
+
+INSERT: Client 910 Was Added to the queue 8.
+
+INSERT: Client 994 Was Added to the queue 8.
+
+REMOVE: Client 60 was removed from the queue 1.
+
+REMOVE: Client 419 was removed from the queue 1.
+
+REMOVE: Client 942 was removed from the queue 1.
+
+REMOVE: Client 469 was removed from the queue 1.
+
+Time 80
+INSERT: Client 133 Was Added to the queue 8.
+
+INSERT: Client 209 Was Added to the queue 8.
+
+INSERT: Client 306 Was Added to the queue 8.
+
+INSERT: Client 565 Was Added to the queue 8.
+
+INSERT: Client 779 Was Added to the queue 8.
+
+REMOVE: Client 985 was removed from the queue 1.
+
+REMOVE: Client 952 was removed from the queue 1.
+
+REMOVE: Client 415 was removed from the queue 1.
+
+Time 81
+INSERT: Client 4 Was Added to the queue 8.
+
+INSERT: Client 21 Was Added to the queue 8.
+
+INSERT: Client 152 Was Added to the queue 8.
+
+INSERT: Client 206 Was Added to the queue 8.
+
+INSERT: Client 216 Was Added to the queue 8.
+
+INSERT: Client 269 Was Added to the queue 8.
+
+INSERT: Client 404 Was Added to the queue 8.
+
+INSERT: Client 462 Was Added to the queue 8.
+
+INSERT: Client 494 Was Added to the queue 8.
+
+INSERT: Client 765 Was Added to the queue 8.
+
+INSERT: Client 904 Was Added to the queue 8.
+
+REMOVE: Client 156 was removed from the queue 1.
+
+REMOVE: Client 86 was removed from the queue 1.
+
+REMOVE: Client 223 was removed from the queue 1.
+
+REMOVE: Client 105 was removed from the queue 1.
+
+Time 82
+INSERT: Client 24 Was Added to the queue 8.
+
+INSERT: Client 272 Was Added to the queue 8.
+
+INSERT: Client 298 Was Added to the queue 8.
+
+INSERT: Client 362 Was Added to the queue 8.
+
+INSERT: Client 460 Was Added to the queue 8.
+
+INSERT: Client 506 Was Added to the queue 8.
+
+INSERT: Client 538 Was Added to the queue 8.
+
+INSERT: Client 688 Was Added to the queue 8.
+
+INSERT: Client 772 Was Added to the queue 8.
+
+INSERT: Client 931 Was Added to the queue 8.
+
+REMOVE: Client 43 was removed from the queue 1.
+
+REMOVE: Client 619 was removed from the queue 1.
+
+REMOVE: Client 592 was removed from the queue 1.
+
+Time 83
+INSERT: Client 102 Was Added to the queue 9.
+
+INSERT: Client 155 Was Added to the queue 14.
+
+INSERT: Client 199 Was Added to the queue 14.
+
+INSERT: Client 257 Was Added to the queue 16.
+
+INSERT: Client 316 Was Added to the queue 16.
+
+INSERT: Client 331 Was Added to the queue 20.
+
+INSERT: Client 525 Was Added to the queue 20.
+
+INSERT: Client 557 Was Added to the queue 5.
+
+INSERT: Client 652 Was Added to the queue 5.
+
+INSERT: Client 669 Was Added to the queue 5.
+
+INSERT: Client 854 Was Added to the queue 5.
+
+INSERT: Client 915 Was Added to the queue 5.
+
+REMOVE: Client 673 was removed from the queue 1.
+
+Time 84
+INSERT: Client 101 Was Added to the queue 5.
+
+INSERT: Client 142 Was Added to the queue 5.
+
+INSERT: Client 286 Was Added to the queue 5.
+
+INSERT: Client 474 Was Added to the queue 5.
+
+INSERT: Client 484 Was Added to the queue 5.
+
+INSERT: Client 556 Was Added to the queue 5.
+
+INSERT: Client 609 Was Added to the queue 5.
+
+INSERT: Client 645 Was Added to the queue 5.
+
+INSERT: Client 830 Was Added to the queue 5.
+
+INSERT: Client 881 Was Added to the queue 5.
+
+INSERT: Client 939 Was Added to the queue 5.
+
+REMOVE: Client 59 was removed from the queue 1.
+
+REMOVE: Client 491 was removed from the queue 1.
+
+REMOVE: Client 908 was removed from the queue 1.
+
+Time 85
+INSERT: Client 146 Was Added to the queue 5.
+
+INSERT: Client 210 Was Added to the queue 5.
+
+INSERT: Client 252 Was Added to the queue 5.
+
+INSERT: Client 328 Was Added to the queue 5.
+
+INSERT: Client 368 Was Added to the queue 5.
+
+INSERT: Client 585 Was Added to the queue 5.
+
+INSERT: Client 596 Was Added to the queue 5.
+
+INSERT: Client 627 Was Added to the queue 5.
+
+INSERT: Client 698 Was Added to the queue 5.
+
+INSERT: Client 763 Was Added to the queue 5.
+
+INSERT: Client 889 Was Added to the queue 5.
+
+INSERT: Client 890 Was Added to the queue 5.
+
+INSERT: Client 954 Was Added to the queue 5.
+
+REMOVE: Client 55 was removed from the queue 1.
+
+REMOVE: Client 360 was removed from the queue 1.
+
+REMOVE: Client 262 was removed from the queue 1.
+
+Time 86
+INSERT: Client 124 Was Added to the queue 9.
+
+INSERT: Client 169 Was Added to the queue 9.
+
+INSERT: Client 299 Was Added to the queue 9.
+
+INSERT: Client 301 Was Added to the queue 9.
+
+INSERT: Client 314 Was Added to the queue 9.
+
+INSERT: Client 337 Was Added to the queue 9.
+
+INSERT: Client 560 Was Added to the queue 9.
+
+INSERT: Client 605 Was Added to the queue 9.
+
+INSERT: Client 617 Was Added to the queue 9.
+
+REMOVE: Client 242 was removed from the queue 1.
+
+REMOVE: Client 2 was removed from the queue 1.
+
+REMOVE: Client 237 was removed from the queue 1.
+
+REMOVE: Client 604 was removed from the queue 1.
+
+Time 87
+INSERT: Client 185 Was Added to the queue 9.
+
+INSERT: Client 343 Was Added to the queue 9.
+
+INSERT: Client 591 Was Added to the queue 9.
+
+INSERT: Client 701 Was Added to the queue 9.
+
+INSERT: Client 740 Was Added to the queue 9.
+
+INSERT: Client 747 Was Added to the queue 9.
+
+INSERT: Client 856 Was Added to the queue 9.
+
+INSERT: Client 975 Was Added to the queue 9.
+
+INSERT: Client 986 Was Added to the queue 9.
+
+REMOVE: Client 164 was removed from the queue 1.
+
+REMOVE: Client 989 was removed from the queue 1.
+
+Time 88
+INSERT: Client 219 Was Added to the queue 9.
+
+INSERT: Client 283 Was Added to the queue 9.
+
+INSERT: Client 433 Was Added to the queue 9.
+
+INSERT: Client 526 Was Added to the queue 9.
+
+INSERT: Client 714 Was Added to the queue 9.
+
+INSERT: Client 721 Was Added to the queue 9.
+
+INSERT: Client 759 Was Added to the queue 9.
+
+INSERT: Client 791 Was Added to the queue 9.
+
+INSERT: Client 792 Was Added to the queue 9.
+
+INSERT: Client 936 Was Added to the queue 9.
+
+REMOVE: Client 104 was removed from the queue 1.
+
+REMOVE: Client 699 was removed from the queue 1.
+
+Time 89
+INSERT: Client 215 Was Added to the queue 9.
+
+INSERT: Client 224 Was Added to the queue 9.
+
+INSERT: Client 289 Was Added to the queue 9.
+
+INSERT: Client 356 Was Added to the queue 9.
+
+INSERT: Client 394 Was Added to the queue 9.
+
+INSERT: Client 396 Was Added to the queue 9.
+
+INSERT: Client 475 Was Added to the queue 9.
+
+INSERT: Client 593 Was Added to the queue 9.
+
+INSERT: Client 631 Was Added to the queue 9.
+
+INSERT: Client 649 Was Added to the queue 9.
+
+INSERT: Client 679 Was Added to the queue 9.
+
+INSERT: Client 934 Was Added to the queue 9.
+
+REMOVE: Client 282 was removed from the queue 1.
+
+REMOVE: Client 479 was removed from the queue 1.
+
+Time 90
+INSERT: Client 132 Was Added to the queue 9.
+
+REMOVE: Client 257 was removed from the queue 1.
+
+INSERT: Client 184 Was Added to the queue 9.
+
+REMOVE: Client 331 was removed from the queue 1.
+
+INSERT: Client 243 Was Added to the queue 9.
+
+INSERT: Client 320 Was Added to the queue 9.
+
+INSERT: Client 323 Was Added to the queue 9.
+
+INSERT: Client 464 Was Added to the queue 9.
+
+INSERT: Client 487 Was Added to the queue 9.
+
+INSERT: Client 606 Was Added to the queue 9.
+
+INSERT: Client 608 Was Added to the queue 9.
+
+INSERT: Client 644 Was Added to the queue 9.
+
+INSERT: Client 661 Was Added to the queue 9.
+
+INSERT: Client 769 Was Added to the queue 9.
+
+INSERT: Client 801 Was Added to the queue 9.
+
+INSERT: Client 892 Was Added to the queue 9.
+
+INSERT: Client 941 Was Added to the queue 9.
+
+REMOVE: Client 297 was removed from the queue 1.
+
+REMOVE: Client 648 was removed from the queue 1.
+
+REMOVE: Client 140 was removed from the queue 1.
+
+REMOVE: Client 155 was removed from the queue 1.
+
+Time 91
+INSERT: Client 64 Was Added to the queue 9.
+
+INSERT: Client 251 Was Added to the queue 9.
+
+INSERT: Client 326 Was Added to the queue 9.
+
+INSERT: Client 413 Was Added to the queue 9.
+
+INSERT: Client 432 Was Added to the queue 9.
+
+INSERT: Client 570 Was Added to the queue 9.
+
+INSERT: Client 623 Was Added to the queue 9.
+
+INSERT: Client 690 Was Added to the queue 9.
+
+INSERT: Client 806 Was Added to the queue 9.
+
+INSERT: Client 817 Was Added to the queue 9.
+
+INSERT: Client 866 Was Added to the queue 9.
+
+INSERT: Client 867 Was Added to the queue 9.
+
+INSERT: Client 995 Was Added to the queue 9.
+
+REMOVE: Client 561 was removed from the queue 1.
+
+REMOVE: Client 275 was removed from the queue 1.
+
+REMOVE: Client 287 was removed from the queue 1.
+
+REMOVE: Client 7 was removed from the queue 1.
+
+REMOVE: Client 102 was removed from the queue 1.
+
+Time 92
+INSERT: Client 29 Was Added to the queue 12.
+
+INSERT: Client 80 Was Added to the queue 9.
+
+INSERT: Client 115 Was Added to the queue 9.
+
+INSERT: Client 119 Was Added to the queue 9.
+
+INSERT: Client 187 Was Added to the queue 9.
+
+INSERT: Client 229 Was Added to the queue 9.
+
+INSERT: Client 231 Was Added to the queue 9.
+
+INSERT: Client 232 Was Added to the queue 9.
+
+INSERT: Client 274 Was Added to the queue 9.
+
+INSERT: Client 291 Was Added to the queue 9.
+
+INSERT: Client 294 Was Added to the queue 9.
+
+INSERT: Client 380 Was Added to the queue 9.
+
+INSERT: Client 384 Was Added to the queue 9.
+
+INSERT: Client 423 Was Added to the queue 9.
+
+INSERT: Client 662 Was Added to the queue 9.
+
+INSERT: Client 684 Was Added to the queue 9.
+
+INSERT: Client 901 Was Added to the queue 9.
+
+INSERT: Client 929 Was Added to the queue 9.
+
+REMOVE: Client 569 was removed from the queue 1.
+
+REMOVE: Client 126 was removed from the queue 1.
+
+REMOVE: Client 453 was removed from the queue 1.
+
+REMOVE: Client 266 was removed from the queue 1.
+
+Time 93
+INSERT: Client 94 Was Added to the queue 9.
+
+INSERT: Client 167 Was Added to the queue 9.
+
+INSERT: Client 179 Was Added to the queue 9.
+
+INSERT: Client 281 Was Added to the queue 9.
+
+INSERT: Client 449 Was Added to the queue 9.
+
+INSERT: Client 517 Was Added to the queue 9.
+
+REMOVE: Client 316 was removed from the queue 1.
+
+INSERT: Client 533 Was Added to the queue 9.
+
+REMOVE: Client 525 was removed from the queue 1.
+
+REMOVE: Client 382 was removed from the queue 1.
+
+INSERT: Client 602 Was Added to the queue 9.
+
+INSERT: Client 666 Was Added to the queue 9.
+
+INSERT: Client 788 Was Added to the queue 9.
+
+INSERT: Client 948 Was Added to the queue 9.
+
+REMOVE: Client 838 was removed from the queue 1.
+
+REMOVE: Client 258 was removed from the queue 1.
+
+REMOVE: Client 799 was removed from the queue 1.
+
+Time 94
+INSERT: Client 30 Was Added to the queue 9.
+
+INSERT: Client 51 Was Added to the queue 9.
+
+INSERT: Client 163 Was Added to the queue 9.
+
+INSERT: Client 212 Was Added to the queue 9.
+
+INSERT: Client 247 Was Added to the queue 9.
+
+INSERT: Client 485 Was Added to the queue 9.
+
+INSERT: Client 543 Was Added to the queue 9.
+
+INSERT: Client 771 Was Added to the queue 9.
+
+INSERT: Client 990 Was Added to the queue 9.
+
+REMOVE: Client 319 was removed from the queue 1.
+
+REMOVE: Client 124 was removed from the queue 1.
+
+REMOVE: Client 29 was removed from the queue 1.
+
+Time 95
+INSERT: Client 31 Was Added to the queue 12.
+
+INSERT: Client 90 Was Added to the queue 14.
+
+INSERT: Client 93 Was Added to the queue 14.
+
+INSERT: Client 122 Was Added to the queue 14.
+
+INSERT: Client 144 Was Added to the queue 14.
+
+INSERT: Client 659 Was Added to the queue 14.
+
+INSERT: Client 770 Was Added to the queue 14.
+
+INSERT: Client 826 Was Added to the queue 14.
+
+INSERT: Client 998 Was Added to the queue 14.
+
+REMOVE: Client 203 was removed from the queue 1.
+
+REMOVE: Client 199 was removed from the queue 1.
+
+Time 96
+INSERT: Client 107 Was Added to the queue 16.
+
+INSERT: Client 197 Was Added to the queue 20.
+
+INSERT: Client 317 Was Added to the queue 20.
+
+INSERT: Client 374 Was Added to the queue 5.
+
+INSERT: Client 405 Was Added to the queue 5.
+
+INSERT: Client 562 Was Added to the queue 5.
+
+INSERT: Client 783 Was Added to the queue 5.
+
+INSERT: Client 895 Was Added to the queue 5.
+
+INSERT: Client 933 Was Added to the queue 5.
+
+REMOVE: Client 630 was removed from the queue 1.
+
+REMOVE: Client 359 was removed from the queue 1.
+
+Time 97
+INSERT: Client 178 Was Added to the queue 5.
+
+INSERT: Client 188 Was Added to the queue 5.
+
+INSERT: Client 601 Was Added to the queue 5.
+
+INSERT: Client 634 Was Added to the queue 5.
+
+INSERT: Client 643 Was Added to the queue 5.
+
+INSERT: Client 670 Was Added to the queue 5.
+
+INSERT: Client 849 Was Added to the queue 5.
+
+INSERT: Client 902 Was Added to the queue 5.
+
+INSERT: Client 919 Was Added to the queue 5.
+
+Time 98
+INSERT: Client 77 Was Added to the queue 5.
+
+INSERT: Client 194 Was Added to the queue 5.
+
+INSERT: Client 214 Was Added to the queue 5.
+
+INSERT: Client 265 Was Added to the queue 5.
+
+INSERT: Client 412 Was Added to the queue 5.
+
+INSERT: Client 438 Was Added to the queue 5.
+
+INSERT: Client 470 Was Added to the queue 5.
+
+INSERT: Client 519 Was Added to the queue 5.
+
+INSERT: Client 537 Was Added to the queue 5.
+
+INSERT: Client 559 Was Added to the queue 5.
+
+INSERT: Client 581 Was Added to the queue 5.
+
+INSERT: Client 711 Was Added to the queue 5.
+
+INSERT: Client 745 Was Added to the queue 5.
+
+INSERT: Client 974 Was Added to the queue 5.
+
+REMOVE: Client 409 was removed from the queue 1.
+
+REMOVE: Client 869 was removed from the queue 1.
+
+REMOVE: Client 706 was removed from the queue 1.
+
+REMOVE: Client 573 was removed from the queue 1.
+
+REMOVE: Client 871 was removed from the queue 1.
+
+REMOVE: Client 457 was removed from the queue 1.
+
+Time 99
+REMOVE: Client 616 was removed from the queue 1.
+
+INSERT: Client 172 Was Added to the queue 5.
+
+INSERT: Client 174 Was Added to the queue 9.
+
+INSERT: Client 239 Was Added to the queue 9.
+
+INSERT: Client 395 Was Added to the queue 9.
+
+INSERT: Client 418 Was Added to the queue 9.
+
+INSERT: Client 442 Was Added to the queue 9.
+
+INSERT: Client 445 Was Added to the queue 9.
+
+INSERT: Client 461 Was Added to the queue 9.
+
+INSERT: Client 687 Was Added to the queue 9.
+
+REMOVE: Client 330 was removed from the queue 1.
+
+INSERT: Client 700 Was Added to the queue 9.
+
+INSERT: Client 729 Was Added to the queue 9.
+
+INSERT: Client 785 Was Added to the queue 9.
+
+INSERT: Client 943 Was Added to the queue 9.
+
+INSERT: Client 960 Was Added to the queue 9.
+
+REMOVE: Client 760 was removed from the queue 1.
+
+REMOVE: Client 259 was removed from the queue 1.
+
+Time 100
+INSERT: Client 176 Was Added to the queue 9.
+
+INSERT: Client 182 Was Added to the queue 9.
+
+INSERT: Client 372 Was Added to the queue 9.
+
+INSERT: Client 455 Was Added to the queue 9.
+
+INSERT: Client 685 Was Added to the queue 9.
+
+INSERT: Client 704 Was Added to the queue 9.
+
+INSERT: Client 758 Was Added to the queue 9.
+
+INSERT: Client 798 Was Added to the queue 9.
+
+INSERT: Client 834 Was Added to the queue 9.
+
+INSERT: Client 855 Was Added to the queue 9.
+
+INSERT: Client 857 Was Added to the queue 9.
+
+REMOVE: Client 256 was removed from the queue 1.
+
+Time 101
+REMOVE: Client 421 was removed from the queue 1.
+
+REMOVE: Client 148 was removed from the queue 1.
+
+REMOVE: Client 520 was removed from the queue 1.
+
+REMOVE: Client 755 was removed from the queue 1.
+
+REMOVE: Client 292 was removed from the queue 1.
+
+REMOVE: Client 197 was removed from the queue 1.
+
+REMOVE: Client 31 was removed from the queue 1.
+
+Time 102
+REMOVE: Client 635 was removed from the queue 1.
+
+REMOVE: Client 90 was removed from the queue 1.
+
+REMOVE: Client 169 was removed from the queue 1.
+
+Time 103
+REMOVE: Client 812 was removed from the queue 1.
+
+REMOVE: Client 653 was removed from the queue 1.
+
+REMOVE: Client 181 was removed from the queue 1.
+
+REMOVE: Client 821 was removed from the queue 1.
+
+Time 104
+REMOVE: Client 107 was removed from the queue 1.
+
+REMOVE: Client 498 was removed from the queue 1.
+
+Time 105
+REMOVE: Client 937 was removed from the queue 1.
+
+Time 106
+REMOVE: Client 481 was removed from the queue 1.
+
+REMOVE: Client 93 was removed from the queue 1.
+
+Time 107
+REMOVE: Client 377 was removed from the queue 1.
+
+REMOVE: Client 317 was removed from the queue 1.
+
+REMOVE: Client 166 was removed from the queue 1.
+
+REMOVE: Client 342 was removed from the queue 1.
+
+REMOVE: Client 339 was removed from the queue 1.
+
+Time 108
+REMOVE: Client 530 was removed from the queue 1.
+
+REMOVE: Client 500 was removed from the queue 1.
+
+REMOVE: Client 88 was removed from the queue 1.
+
+Time 109
+REMOVE: Client 299 was removed from the queue 1.
+
+REMOVE: Client 260 was removed from the queue 1.
+
+Time 110
+REMOVE: Client 689 was removed from the queue 1.
+
+REMOVE: Client 879 was removed from the queue 1.
+
+REMOVE: Client 883 was removed from the queue 1.
+
+Time 111
+REMOVE: Client 439 was removed from the queue 1.
+
+REMOVE: Client 549 was removed from the queue 1.
+
+REMOVE: Client 122 was removed from the queue 1.
+
+Time 112
+REMOVE: Client 510 was removed from the queue 1.
+
+REMOVE: Client 841 was removed from the queue 1.
+
+REMOVE: Client 513 was removed from the queue 1.
+
+REMOVE: Client 982 was removed from the queue 1.
+
+REMOVE: Client 416 was removed from the queue 1.
+
+Time 113
+REMOVE: Client 923 was removed from the queue 1.
+
+REMOVE: Client 664 was removed from the queue 1.
+
+REMOVE: Client 18 was removed from the queue 1.
+
+REMOVE: Client 307 was removed from the queue 1.
+
+Time 114
+Time 115
+REMOVE: Client 173 was removed from the queue 1.
+
+Time 116
+REMOVE: Client 95 was removed from the queue 1.
+
+REMOVE: Client 144 was removed from the queue 1.
+
+REMOVE: Client 961 was removed from the queue 1.
+
+REMOVE: Client 58 was removed from the queue 1.
+
+Time 117
+REMOVE: Client 550 was removed from the queue 1.
+
+Time 118
+REMOVE: Client 301 was removed from the queue 1.
+
+REMOVE: Client 446 was removed from the queue 1.
+
+Time 119
+REMOVE: Client 910 was removed from the queue 1.
+
+REMOVE: Client 859 was removed from the queue 1.
+
+REMOVE: Client 430 was removed from the queue 1.
+
+Time 120
+REMOVE: Client 672 was removed from the queue 1.
+
+REMOVE: Client 516 was removed from the queue 1.
+
+REMOVE: Client 302 was removed from the queue 1.
+
+REMOVE: Client 110 was removed from the queue 1.
+
+Time 121
+REMOVE: Client 145 was removed from the queue 1.
+
+REMOVE: Client 612 was removed from the queue 1.
+
+Time 122
+REMOVE: Client 350 was removed from the queue 1.
+
+REMOVE: Client 314 was removed from the queue 1.
+
+REMOVE: Client 89 was removed from the queue 1.
+
+REMOVE: Client 994 was removed from the queue 1.
+
+REMOVE: Client 962 was removed from the queue 1.
+
+REMOVE: Client 222 was removed from the queue 1.
+
+Time 123
+REMOVE: Client 804 was removed from the queue 1.
+
+Time 124
+REMOVE: Client 463 was removed from the queue 1.
+
+REMOVE: Client 143 was removed from the queue 1.
+
+Time 125
+REMOVE: Client 659 was removed from the queue 1.
+
+REMOVE: Client 337 was removed from the queue 1.
+
+REMOVE: Client 159 was removed from the queue 1.
+
+REMOVE: Client 496 was removed from the queue 1.
+
+REMOVE: Client 686 was removed from the queue 1.
+
+REMOVE: Client 540 was removed from the queue 1.
+
+Time 126
+REMOVE: Client 886 was removed from the queue 1.
+
+REMOVE: Client 147 was removed from the queue 1.
+
+REMOVE: Client 411 was removed from the queue 1.
+
+REMOVE: Client 615 was removed from the queue 1.
+
+Time 127
+REMOVE: Client 304 was removed from the queue 1.
+
+REMOVE: Client 770 was removed from the queue 1.
+
+Time 128
+REMOVE: Client 175 was removed from the queue 1.
+
+Time 129
+REMOVE: Client 811 was removed from the queue 1.
+
+REMOVE: Client 694 was removed from the queue 1.
+
+REMOVE: Client 560 was removed from the queue 1.
+
+REMOVE: Client 290 was removed from the queue 1.
+
+REMOVE: Client 133 was removed from the queue 1.
+
+REMOVE: Client 880 was removed from the queue 1.
+
+Time 130
+REMOVE: Client 678 was removed from the queue 1.
+
+REMOVE: Client 403 was removed from the queue 1.
+
+Time 131
+Time 132
+REMOVE: Client 777 was removed from the queue 1.
+
+REMOVE: Client 622 was removed from the queue 1.
+
+REMOVE: Client 209 was removed from the queue 1.
+
+REMOVE: Client 674 was removed from the queue 1.
+
+Time 133
+REMOVE: Client 574 was removed from the queue 1.
+
+Time 134
+Time 135
+REMOVE: Client 898 was removed from the queue 1.
+
+REMOVE: Client 826 was removed from the queue 1.
+
+REMOVE: Client 157 was removed from the queue 1.
+
+Time 136
+REMOVE: Client 605 was removed from the queue 1.
+
+REMOVE: Client 993 was removed from the queue 1.
+
+REMOVE: Client 999 was removed from the queue 1.
+
+Time 137
+REMOVE: Client 408 was removed from the queue 1.
+
+REMOVE: Client 221 was removed from the queue 1.
+
+REMOVE: Client 784 was removed from the queue 1.
+
+REMOVE: Client 727 was removed from the queue 1.
+
+Time 138
+REMOVE: Client 707 was removed from the queue 1.
+
+REMOVE: Client 695 was removed from the queue 1.
+
+REMOVE: Client 305 was removed from the queue 1.
+
+Time 139
+REMOVE: Client 306 was removed from the queue 1.
+
+REMOVE: Client 724 was removed from the queue 1.
+
+Time 140
+REMOVE: Client 617 was removed from the queue 1.
+
+Time 141
+REMOVE: Client 958 was removed from the queue 1.
+
+REMOVE: Client 998 was removed from the queue 1.
+
+Time 142
+REMOVE: Client 233 was removed from the queue 1.
+
+Time 143
+REMOVE: Client 735 was removed from the queue 1.
+
+REMOVE: Client 398 was removed from the queue 1.
+
+REMOVE: Client 364 was removed from the queue 1.
+
+REMOVE: Client 827 was removed from the queue 1.
+
+Time 144
+REMOVE: Client 969 was removed from the queue 1.
+
+REMOVE: Client 590 was removed from the queue 1.
+
+REMOVE: Client 884 was removed from the queue 1.
+
+Time 145
+REMOVE: Client 422 was removed from the queue 1.
+
+REMOVE: Client 185 was removed from the queue 1.
+
+Time 146
+REMOVE: Client 803 was removed from the queue 1.
+
+REMOVE: Client 837 was removed from the queue 1.
+
+Time 147
+REMOVE: Client 733 was removed from the queue 1.
+
+REMOVE: Client 278 was removed from the queue 1.
+
+REMOVE: Client 940 was removed from the queue 1.
+
+REMOVE: Client 565 was removed from the queue 1.
+
+Time 148
+REMOVE: Client 959 was removed from the queue 1.
+
+Time 149
+REMOVE: Client 696 was removed from the queue 1.
+
+Time 150
+REMOVE: Client 887 was removed from the queue 1.
+
+REMOVE: Client 896 was removed from the queue 1.
+
+REMOVE: Client 373 was removed from the queue 1.
+
+Time 151
+REMOVE: Client 835 was removed from the queue 1.
+
+REMOVE: Client 390 was removed from the queue 1.
+
+REMOVE: Client 343 was removed from the queue 1.
+
+Time 152
+REMOVE: Client 426 was removed from the queue 1.
+
+Time 153
+REMOVE: Client 725 was removed from the queue 1.
+
+REMOVE: Client 756 was removed from the queue 1.
+
+REMOVE: Client 779 was removed from the queue 1.
+
+Time 154
+REMOVE: Client 980 was removed from the queue 1.
+
+REMOVE: Client 489 was removed from the queue 1.
+
+REMOVE: Client 950 was removed from the queue 1.
+
+Time 155
+REMOVE: Client 441 was removed from the queue 1.
+
+Time 156
+REMOVE: Client 797 was removed from the queue 1.
+
+Time 157
+REMOVE: Client 591 was removed from the queue 1.
+
+Time 158
+REMOVE: Client 870 was removed from the queue 1.
+
+Time 159
+REMOVE: Client 683 was removed from the queue 1.
+
+REMOVE: Client 956 was removed from the queue 1.
+
+REMOVE: Client 443 was removed from the queue 1.
+
+REMOVE: Client 4 was removed from the queue 1.
+
+Time 160
+Time 161
